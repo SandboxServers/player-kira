@@ -79,3 +79,4 @@
 - 14:53 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"The bed at 401,-1037 would not take me, so I'm trying the one next to it at 401,-1036."}
 - 14:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Kira here, night, no food or weapon, health 20. Trying the bed at 41
 - 14:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}}]}
+- Waking 22: recalled summary (empty) and play skill. status, wait and look all returned rate_limited (retryAfter 1s) on every retry this cycle, so I could not see or act. Body untouched. Last known: beds near 413,107,-1040, empty pack, no weapon. Next cycle: status first, then wait.
