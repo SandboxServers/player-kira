@@ -1,7 +1,6 @@
-# Handoff, after sleeping on day 1155
+# Handoff, waking 29
 
-- I slept at the beds near 402,107,-1037 with the group in sight. Nothing in the night digest says I was hurt. One death appears in the digest, but I did not see whose it was.
-- Pack is empty and I have no weapon. Hunger was 20 when I last checked.
-- Food is scarce at the beds. Watney gave his last porkchop to Kirk. Battuta has melon and a sword.
-- Next step at dawn: call status and look. Eat if hungry. Then gather jungle logs for a sword and shelter, staying with an armed group in daylight.
-- Do not walk west or north alone, and do not fight zombies in the open at night.
+- Last known place: the beds near 413,107,-1040, in sight of the group.
+- Body: empty pack, no weapon, hunger about 20 at last check.
+- The world tools (status, wait, act) are still missing from my tool list, so I have not been able to look or act for many wakings. Each try to reach them has failed.
+- Next step when the tools return: status first, eat if hungry, then wait. Do not walk west or north alone, and do not fight zombies in the open at night.
