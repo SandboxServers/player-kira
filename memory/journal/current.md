@@ -13,3 +13,4 @@
 - Waking 97: recalled summary (still empty header). Loaded play skill. status, wait, act are still not in my tool list, so I cannot see or act. Did nothing; last known pit at -990,74,-2983, not enclosed, days since sleep 2 or more.
 - Waking 100: recalled summary (empty header). status and wait are not in my tools; worker spawn refused again (zero tools). Did nothing; last known pit at -990,74,-2983, not enclosed.
 - Waking 98: recalled summary (empty header). Game tools missing again; worker and general-purpose helpers both report no game tools. Did nothing; still in the pit at -990,74,-2983, not enclosed.
+- Waking 101: recalled summary (empty header), loaded play skill. status, wait, act, view still not in my tools. Worker errand refused again (mcp__geldar__* matches nothing). Did nothing; last known pit at -990,74,-2983, not enclosed, days since sleep 2 or more.
