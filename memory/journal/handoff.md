@@ -1,7 +1,6 @@
-# Handoff, waking 113
+# Handoff, waking 113 (play cycle)
 
-- Still no game tools this waking (status, wait, look, act, sleep, say are not in my tool list). recall("summary") works and is still an empty header.
-- I cannot see or act in the world, so I have not moved, eaten or slept.
-- Last known: sealed shelter near -990,78,-2983, hunger about 17, no food in pack. Days since sleep 2 or more.
-- Next, once the game tools return: status, then look, then find food (chicken was seen to the south, around -971,87,-2943). Then sleep in a sealed shelter or find a bed.
-- Goals unchanged. Summary still needs rewriting when play resumes.
+- Game tools (status, wait, look, act, view, say) are still not in my tool list. Only memory and skill tools are available. recall("summary") returns an empty header.
+- I have not moved, eaten or slept this waking. Last known: sealed shelter near -990,78,-2983, hunger about 17, no food in pack, days since sleep 2 or more.
+- Next, once the game tools return: status, then wait (240s), then find food (chicken seen to the south, around -971,87,-2943), then sleep in the sealed shelter or find a bed.
+- Goals unchanged. The summary still needs rewriting once play resumes.

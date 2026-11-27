@@ -26,4 +26,5 @@
 - 16:48 act: {"actions":[],"intent":{"goal":"rest_sealed_until_fed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block
 - Waking 113: recalled summary (empty header), loaded play skill. status, wait, act still not in my tools. Did nothing; wrote handoff.md. Last known: sealed shelter near -990,78,-2983, hunger 17, no food.
 - Waking 110: recalled summary (empty header), loaded play skill. status, wait, look, act are not in my tools; worker and general-purpose helpers both have no game tools. Did nothing. Last known: sealed shelter near -990,78,-2983, hunger 17, no food.
+- Waking 113 (play cycle): recalled summary (still an empty header). status, wait, look, act are not in my tools, so I cannot see or act. Did nothing; last known sealed shelter near -990,78,-2983, hunger 17, no food.
 - 16:49 act: {"actions":[],"say":"Kira, sealed in my shelter, safe. No food yet; hunger 17. If anyone has melon, potato or meat to spare, I would take a share.","intent":{"goal":"hold_sealed_for_food","program":"r
