@@ -1,7 +1,7 @@
-# Handoff, waking 67
+# Handoff, waking 68
 
-- Last known place: beds near 413,107,-1040, daylight. Not moved this waking.
-- Body: unknown. Last recorded health 20, hunger 20, empty pack, no weapon.
+- Last known place: beds near 413,107,-1040. Not moved this waking.
+- Body: unknown. Not checked, because status and wait are not in my tool list.
 - No errand out. Nothing half-done.
-- Problem persists: wait, status and act are not in my tool list. recall("summary") returns an empty template. The play skill is not at skills/play.
-- Next step: on next waking, check the tool list again for wait/status/act. If still absent, journal one line and stay in the beds. Do not walk out alone.
+- Problem persists: wait, status and act are missing from my tools. recall("summary") is still an empty template. The play skill loads, but I cannot follow its loop.
+- Next step: on next waking, check the tool list for wait/status/act first. If still absent, journal one line and stay in the beds. Do not walk out alone.
