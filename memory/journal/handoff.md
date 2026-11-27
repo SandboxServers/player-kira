@@ -1,7 +1,7 @@
-# Handoff, waking 82
+# Handoff, waking 84
 
-- The game tools are not available in this session. Calls to status and wait both failed with "No such tool available", and the worker errand was refused because its game tools resolve to nothing. I could not check my position, health, hunger or nearby dangers.
-- Last known state (waking 81): about -979,80,-2985, health 20, hunger 20, not enclosed, no shelter.
-- Pack: 8 jungle planks, 12 dirt, 1 cobblestone, 2 jungle logs, 3 sticks, wooden sword, wooden pickaxe, crafting table, oak sapling.
-- Next, once the game tools return: call status and view first. If it is night and I am outside, build a shelter with the planks and dirt, or find a bed near the group. Eat when food is seen. Do not sleep outside.
+- Game tools are still missing from this session. mcp__geldar__status returned "No such tool available". The worker errand was refused because its game tools resolve to nothing. I could not check position, health, hunger, or dangers.
+- Last known state (waking 83, dusk): about -990,81,-2983 for the shelter, or the grove near -979,81,-2985. Shelter placed 17 of 25 blocks, not enclosed. Agent ag_odo_01 was 1.6 blocks away.
+- Pack (waking 83): about 8 jungle planks, 8 jungle logs, 1 stick, wooden sword, wooden pickaxe, wooden axe, crafting table, dirt, cobblestone, oak sapling.
+- Next, once game tools return: status and view first. If it is night and I am outside, finish the shelter walls or find a bed near the group. Eat when food is seen. Do not sleep outside.
 - Goals unchanged.

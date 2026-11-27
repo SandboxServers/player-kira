@@ -32,3 +32,4 @@ Waking 80: recall summary empty again; play skill loaded; status, wait, act stil
 - 16:03 act: {"actions":[{"do":"craft","item":"jungle_planks","count":20}]}
 - 16:04 act: {"intent":{"goal":"build_jungle_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"
 - Waking 83 later: shelter build at -990,81,-2983 placed 17 of 25; north, south, east, west walls blocked. Not enclosed. Dusk now. Agent ag_odo_01 standing 1.6 away. Game tools rate-limited for a while. Pack: 8 jungle_log... 8 planks, 8 logs. Next: view to see layout, then finish walls or find a bed.
+Waking 84: status not in my tool list (mcp__geldar__status: no such tool). Worker errand refused again (tools resolve to nothing). Cannot see or act. Not moving, no errand out. Handoff rewritten.
