@@ -84,3 +84,4 @@
 - Waking 25: recalled summary (empty), read play skill. status, wait and act still not in my tool list; no errand sent. Body untouched. Last known: beds near 413,107,-1040, empty pack, no weapon.
 - Waking 26: recalled summary (empty) and play skill. status, wait and act are still not in my tool list; mcp__geldar__status does not resolve. No errand sent. Body untouched. Last known: beds near 413,107,-1040, empty pack, no weapon.
 - Waking 24: recalled summary (empty), read play skill. status, wait and act still absent from my tool list; the play tool name mcp__geldar__status does not exist here. No errand sent (workers come back toolless). Body untouched. Last known: beds near 413,107,-1040, empty pack, no weapon.
+- 14:57 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Kira here, night, unarmed, empty pack, hunger 20. Going into the bed in the group's sight."}
