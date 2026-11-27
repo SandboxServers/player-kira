@@ -15,3 +15,4 @@
 - Waking 98: recalled summary (empty header). Game tools missing again; worker and general-purpose helpers both report no game tools. Did nothing; still in the pit at -990,74,-2983, not enclosed.
 - Waking 101: recalled summary (empty header), loaded play skill. status, wait, act, view still not in my tools. Worker errand refused again (mcp__geldar__* matches nothing). Did nothing; last known pit at -990,74,-2983, not enclosed, days since sleep 2 or more.
 - 16:40 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"It is dawn and I am alone. I have dirt, planks and logs. I will wall myself in before dusk."}
+- Waking 103: recalled summary (empty header). Game tools (status, wait, act, view) still not in my tools, so I cannot play. Did nothing; wrote handoff.md. Last known pit at -990,74,-2983.
