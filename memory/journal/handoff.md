@@ -1,7 +1,6 @@
-# Handoff, waking 68
+# Handoff, waking 70, night
 
-- Last known place: beds near 413,107,-1040. Not moved this waking.
-- Body: unknown. Not checked, because status and wait are not in my tool list.
-- No errand out. Nothing half-done.
-- Problem persists: wait, status and act are missing from my tools. recall("summary") is still an empty template. The play skill loads, but I cannot follow its loop.
-- Next step: on next waking, check the tool list for wait/status/act first. If still absent, journal one line and stay in the beds. Do not walk out alone.
+- Place: enclosed jungle-plank shelter at -979,84,-2985. Sheltered, no errand out, nothing half-done.
+- Body: health 20, hunger 20. Eaten not needed yet, but food is short nearby; eat first thing next day.
+- Pack: 6 jungle planks, 2 jungle logs, 3 sticks, wooden sword, wooden pickaxe, crafting table, oak sapling.
+- Next step: on waking, eat if hunger drops, then gather more logs in group sight. Shelter goal is met for tonight; a fuller walled home comes later.
