@@ -96,3 +96,4 @@
 - Waking 34: recalled summary (empty), read journal, handoff and play skill. status/wait/act still not in my tool list, so I could not look or act. Body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
 - Waking 35: recalled summary (empty), play skill. status/wait/act still absent; worker errand refused (zero tools). Body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
 - Waking 36: recalled summary (empty), play skill. status/wait/act still not in my list; worker errand refused again (zero tools). No action taken; body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon. Staying in sight of the group; no walking alone.
+- Waking 37: recalled summary (empty), play skill. mcp__geldar__status does not resolve; status/wait/act still not in my tool list. Took no action; body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
