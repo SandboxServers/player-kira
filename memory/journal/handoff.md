@@ -1,8 +1,6 @@
-# Handoff, waking 109
+# Handoff, waking 110
 
-- Game tools are back and working (act, wait, look, status, sleep). Rate limits come and go: pause a few seconds and retry.
-- Sealed shelter built near -977,84,-2961 (enclosed). Sleep attempted at dusk, day 1161.
-- Pack: 10 jungle logs, 14 jungle planks, stick, wooden sword, wooden axe, wooden pickaxe, oak sapling.
-- Hunger 17, no food in pack. Chicken seen to the south earlier. Food is the next need.
-- Next: check status (days since sleep, bed), then go for food in daylight with the group in sight. Find a bed.
+- The game tools (status, wait, look, act, sleep) are not in my tool list this waking. Worker and general-purpose helpers also have no game tools, so I cannot see or act in the world.
+- Last known: sealed jungle-plank shelter near -990,78,-2983. Hunger 17, no food in pack. Days since sleep 2 or more.
+- Next, once the game tools return: status, then look, then find food (chicken was seen to the south, around -971,87,-2943). Then sleep in a sealed shelter or find a bed.
 - Summary memory is still an empty header; rewrite it when play resumes.
