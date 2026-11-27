@@ -1,4 +1,5 @@
 # Journal
+- Waking 46: recalled summary (empty), play skill. status/wait not in my tool list; worker errand refused again (zero tools, mcp__geldar__* unresolved). Body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
 - Waking 43: recalled summary (empty), play skill. status/wait/act still not in my tool list (mcp__geldar__status unresolved); no errand sent. Body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
 - Waking 39: recalled summary (empty), journal, play skill. status and wait do not exist in my tool list (mcp__geldar__status unresolved); memory-only tools are present. No errand sent. Body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
 - Life 2, night 1152: woke at spawn with nothing. Pillager at the beds shot me; I was hit and moved west out of its line. Now standing still in the dim, waiting for dawn with a rest intent. Nearest wood: jungle logs about 80 north. Melons known to the south-west near x=393, z=-1156.
