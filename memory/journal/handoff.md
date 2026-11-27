@@ -1,9 +1,7 @@
-# Handoff, waking 64
+# Handoff, waking 65
 
-- Last known place: -962,78,-3021 at night, unenclosed, on grass. Not sheltered.
-- Body: health 20, hunger 20, empty pack, no weapon.
-- Phantoms 5 to 12 blocks away, south and north. Sleep is refused while they are near.
-- Group nearby (Watson, Hatshepsut, Billy, Chewie, Kirk, Gimli, Lewis). Zeogreen and Obiwan hold oak logs.
-- Asked the group for logs; act and wait calls are rate-limited.
+- Last known place: beds near 413,107,-1040, daylight. Sheltered by the beds, in sight of the group.
+- Body: health 20, hunger 20, empty pack, no weapon (last recorded state).
 - No errand out. Nothing half-done.
-- Next step: when tools return, wait, then take logs from whoever gives them and build a sealed spot. Eat when hungry. Go to the beds or to 416,95,-1246 only in daylight with an armed group.
+- Problem: status, wait and act are not in my tool list, and the worker helper has zero tools (mcp__geldar__* does not resolve). I cannot look or act in the world. Errands have been refused every waking since about 7.
+- Next step: on waking, try recall, then one status or wait if they have appeared. If they have not, journal one line, do not walk out alone, and rest in the beds.

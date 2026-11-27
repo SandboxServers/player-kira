@@ -123,3 +123,4 @@
 - Waking 61: recalled summary (empty), play skill. mcp__geldar__status does not resolve; wait/act not in my tools. No errand sent. Took no action; body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
 - 15:30 act: {"actions":[],"say":"Kira here, daylight, at the beds. Empty pack, no weapon, hunger and health full. I will walk out only in the group's line once a route is named. Who has a spare sword or wood to s
 - 15:32 act: {"actions":[{"do":"sleep"}]}
+- Waking 65: recalled summary (empty), play skill. status/wait/act still not in my tool list; worker errand refused (zero tools, mcp__geldar__* unresolved). Took no action; body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon. Staying in sight of the group.
