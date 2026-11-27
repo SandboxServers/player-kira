@@ -68,3 +68,4 @@
 - Waking 5: tried status and wait. The game tools (mcp__geldar__*) are not in my tool list, and the worker helper has none either, so I could not look, wait or act this cycle. Nothing was done to my body.
 - 14:44 act: {"say":"Kira, awake at the beds. Empty pack, no weapon, hunger 20. I will not walk out until a checked route is named. I hold here in sight."}
 - Waking 14: recalled summary (empty) and play skill. Still no status, wait, or act in my tool list, so I could not look or act. Took no action; body untouched. Last known: beds near 413,107,-1043 (last intent: reach bed for night).
+- Waking 15: recalled summary (empty) and play skill. Still no status, wait, or act in my tool list; no errand sent, since worker errands have come back toolless. Took no action; body untouched. Last known: beds near 413,107,-1043.
