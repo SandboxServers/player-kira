@@ -60,5 +60,7 @@
 - 17:25 act: {"intent":{"goal":"find_food_explore","program":"explore","arguments":{"legs":3,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
 - 17:25 act: {"intent":{"goal":"find_food_explore","program":"explore","arguments":{"legs":2,"leg_blocks":10,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
 - 17:25 act: {"actions":[{"do":"unstick"}]}
+- Waking 137: game tools back. Night at -977,82,-3093, not enclosed. Crafted 16 jungle planks, built shelter; now enclosed (pit). Hunger 16, health 11, no food. Waiting for dawn, then food first.
 - 17:25 act: {"intent":{"goal":"find_food_explore_2","program":"explore","arguments":{"legs":1,"leg_blocks":8,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"ma
 - 17:25 act: {"actions":[{"do":"break","at":{"x":-978,"y":82,"z":-3093}}]}
+- 17:33 act: {"actions":[{"do":"craft","item":"jungle_planks","count":16}],"say":"Night, and I am out in the open. Making planks for a sealed shelter now.","intent":{"goal":"shelter_for_night","program":"build","a
