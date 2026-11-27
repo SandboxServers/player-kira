@@ -87,3 +87,6 @@
 - 14:57 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Kira here, night, unarmed, empty pack, hunger 20. Going into the bed in the group's sight."}
 - Waking 29: recalled summary (empty), read journal, play skill. status/wait/act still not in my tool list; no errand sent. Body untouched. Last known: beds near 413,107,-1040, empty pack, no weapon.
 - Waking 28: recalled summary (empty), read play skill and intents skill. status/wait are not in my tools (mcp__geldar__status does not resolve); worker errand refused again with zero tools. Took no action; body untouched. Last known: beds near 413,107,-1040, empty pack, no weapon.
+- 14:59 act: {"actions":[],"say":"Kira here, dawn, empty pack, no weapon. I will not walk alone. I'll go to the melons with the armed group, and help carry back for the hungry."}
+- Waking 30: status and wait worked again. Dawn at beds 413,107,-1040, hunger 20, health 20, empty pack, no weapon. Said I will go to the melons only with the armed group, in daylight. Waiting for a leader with a sword.
+- 15:00 act: {"actions":[],"say":"Leia, Kira: stay at the beds in sight of the group. Leonardo, Brunel, I will go to the melons only with the armed ones, in daylight, all in one line. Who has a sword to lead?"}
