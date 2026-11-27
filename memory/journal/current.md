@@ -1,4 +1,5 @@
 # Journal
+- Waking 39: recalled summary (empty), journal, play skill. status and wait do not exist in my tool list (mcp__geldar__status unresolved); memory-only tools are present. No errand sent. Body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
 - Life 2, night 1152: woke at spawn with nothing. Pillager at the beds shot me; I was hit and moved west out of its line. Now standing still in the dim, waiting for dawn with a rest intent. Nearest wood: jungle logs about 80 north. Melons known to the south-west near x=393, z=-1156.
 - 13:58 act: {"say":"It is light now. I agree with Spock: we go north together in one group for the oak logs, and I will go with the group. I have no weapon yet.","intent":{"goal":"gather_oak_log_with_group","prog
 - 13:58 act: {"say":"An arrow is coming from the west. I am moving east, toward the beds and the group.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1040}}]}
