@@ -59,3 +59,4 @@
 - 14:35 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"eat"}]}
 - 14:36 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":413,"y":107,"z":-1043}},"wake_on":["goal_completed"
 - 14:36 act: {"actions":[{"do":"sleep"}]}
+- Waking 5: tried status and wait. The game tools (mcp__geldar__*) are not in my tool list, and the worker helper has none either, so I could not look, wait or act this cycle. Nothing was done to my body.
