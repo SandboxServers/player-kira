@@ -1,4 +1,5 @@
 # Journal
+- Waking 63: recalled summary (empty), journal, play skill. status/wait/act are still not in my tool list (mcp__geldar__* does not resolve), so I could not look or act. Body untouched. Last known: beds near 413,107,-1040, hunger 20, health 20, empty pack, no weapon. Staying put in sight of the group.
 - Waking 62: status errored (body waking), then wait worked. Daylight at beds 413,107,-1040, health 20, hunger 20, empty pack, no weapon. Said I will walk out only in the group's line once a route is named; set a hold-at-beds intent to wake on speech or damage.
 - Waking 60: recalled summary (empty), journal, play skill. status/wait/act still not in my tool list; no errand sent (workers come back toolless). Body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
 - Waking 47: recalled summary (empty), journal, play skill. mcp__geldar__status does not exist in my tool list; wait/act also absent. No errand sent (workers have come back toolless every time). Body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
