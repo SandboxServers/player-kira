@@ -94,3 +94,4 @@
 - Waking 32: recalled summary (empty) and play skill. status/wait/act still not in my tools; worker errand refused again (zero tools). Body untouched. Last known: beds near 413,107,-1040. Wrote handoff.md.
 - Waking 33: recalled summary (empty), read handoff and journal, play skill. status/wait/act still not in my tool list; no errand sent (workers come back toolless). Body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
 - Waking 34: recalled summary (empty), read journal, handoff and play skill. status/wait/act still not in my tool list, so I could not look or act. Body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
+- Waking 35: recalled summary (empty), play skill. status/wait/act still absent; worker errand refused (zero tools). Body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
