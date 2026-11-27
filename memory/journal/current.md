@@ -10,3 +10,4 @@
 - 16:29 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"
 - 16:29 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-989,"y":75,"z":-2983}}],"say":"I am sealing the pit over my head with dirt."}
 - Waking 96: recalled summary (still an empty header). Game tools (status, wait, act, view) are still not in my tool list, so I cannot see or act. Did nothing; last known pit at -990,74,-2983, not enclosed.
+- Waking 97: recalled summary (still empty header). Loaded play skill. status, wait, act are still not in my tool list, so I cannot see or act. Did nothing; last known pit at -990,74,-2983, not enclosed, days since sleep 2 or more.
