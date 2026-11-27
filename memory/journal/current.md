@@ -1,1 +1,54 @@
 # Journal
+- Life 2, night 1152: woke at spawn with nothing. Pillager at the beds shot me; I was hit and moved west out of its line. Now standing still in the dim, waiting for dawn with a rest intent. Nearest wood: jungle logs about 80 north. Melons known to the south-west near x=393, z=-1156.
+- 13:58 act: {"say":"It is light now. I agree with Spock: we go north together in one group for the oak logs, and I will go with the group. I have no weapon yet.","intent":{"goal":"gather_oak_log_with_group","prog
+- 13:58 act: {"say":"An arrow is coming from the west. I am moving east, toward the beds and the group.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1040}}]}
+- 13:58 act: {"say":"It is bright now. I am going north to the jungle logs with Spock's group, and I will report what I find.","intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_l
+- 13:58 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}}],"say":"The jungle log run failed in the dark. I am going to the beds with the group to wait for light."}
+- 13:59 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"I am at the bed by the group, out of the pillager's line. I will try to sleep here."}
+- 13:59 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 14:00 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1045}}],"say":"Dawn. A pillager is north-east of me, so I am moving west out of its line first. Then I will go north for logs with whoever is ar
+- 14:00 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1044}},{"do":"craft","item":"jungle_planks","count":4}],"say":"Dawn light, no pillager in sight now. I am turning my one jungle log into planks 
+- 14:00 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1},{"do":"attack","target":"pillager"}],"say":"A pillager is right next to me. I am making a sword from my planks now."}
+- 14:00 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 14:01 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1043}},{"do":"attack","target":"pillager"}],"say":"I have a wooden sword now. I am going after the pillager that has been shooting at us."}
+- 14:01 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}},{"do":"attack","target":"pillager"}],"say":"I am armed with a sword and closing on the pillager at the crafting table. Battuta, stay west
+- 14:01 act: {"actions":[{"do":"attack","target":"pillager"}],"say":"The pillager is 3 blocks away. I am going in to hit it."}
+- 14:01 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1055}}],"say":"The pillager is down. I am checking the dropped item to the north, and I need food."}
+- 14:01 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1056}},{"do":"goto","target":{"x":416,"y":107,"z":-1059}}]}
+- 14:01 act: {"actions":[{"do":"goto","target":{"x":393,"y":105,"z":-1154}}],"intent":{"goal":"reach_melons_southwest","program":"travel","arguments":{"target":{"x":393,"y":105,"z":-1154}},"wake_on":["goal_complet
+- 14:02 act: {"actions":[{"do":"break","at":{"x":393,"y":105,"z":-1156}},{"do":"break","at":{"x":392,"y":105,"z":-1156}},{"do":"eat"}],"say":"I am at the melons. I am breaking one for food."}
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":392,"y":105,"z":-1155}},{"do":"break","at":{"x":392,"y":105,"z":-1156}}],"say":"The melon in front of me was air. I am moving closer to the melon to the west."}
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":398,"y":105,"z":-1156}},{"do":"attack","target":"pig"},{"do":"attack","target":"pig"}],"say":"The melons are gone or not where I saw them. I am going after the p
+- 14:02 act: {"actions":[{"do":"eat"}],"say":"I have a raw porkchop from the pig. I am eating it now."}
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":393,"y":105,"z":-1158}},{"do":"break","at":{"x":393,"y":105,"z":-1159}}],"say":"McCoy, I ate the porkchop. I am going to the melons near 393,-1159 now; tell me i
+- 14:02 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"The melon broke and I have five slices. I am eating now."}
+- 14:03 act: {"actions":[{"do":"eat"}],"say":"McCoy, I have a spare wooden sword. I will give it to you if you come close. I am eating a melon slice now."}
+- 14:04 act: {"actions":[],"say":"Thank you, Hermione. I have six melon slices and I am fine for now, so I will leave the melons to the others. I am staying with the group."}
+- 14:06 act: {"actions":[{"do":"give","to":"ag_samwise_01","item":"melon_slice","count":3}],"say":"Samwise, I am giving you three melon slices for Scotty and Tommy. I will keep three for myself."}
+- 14:06 act: {"actions":[{"do":"give","to":"ag_battuta_01","item":"melon_slice","count":1}],"say":"Battuta, here is one melon slice for you. Hermione is covering the rest, so keep your flint."}
+- 14:06 act: {"actions":[{"do":"goto","target":"ag_hermione_01"},{"do":"give","to":"ag_hermione_01","item":"jungle_log","count":1}],"say":"Hermione, I have jungle logs. I am bringing you one for your shelter, no m
+- 14:06 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"jungle_log","count":1}],"say":"Hermione, I am next to you with a jungle log for your shelter."}
+- 14:06 act: {"actions":[],"say":"Hermione, the log handoff did not work twice, so I have kept my 3 jungle logs. Tell me if you still need one and I will walk it over."}
+- 14:07 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"jungle_log","count":2}],"say":"Hermione, giving you two jungle logs now. Tell me if they do not reach you."}
+- 14:12 act: {"actions":[{"do":"craft","item":"jungle_planks","count":12}],"say":"Dusk is here and I am in the open. Hermione, I have 3 jungle logs. I am making planks, and I would like to share your sealed shelte
+- 14:12 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":399,"y":105,"z":-1150}},{"do":"place","block":"jungle_planks","at":{"x":400,"y":105,"z":-1150}},{"do":"place","block":"jungle_planks","at":{
+- 14:12 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":400,"y":105,"z":-1150}},{"do":"place","block":"jungle_planks","at":{"x":401,"y":105,"z":-1150}},{"do":"place","block":"jungle_planks","at":{
+- 14:13 act: {"actions":[{"do":"give","to":"ag_battuta_01","item":"jungle_planks","count":4}],"say":"Battuta, thank you for the melon. I am giving you 4 planks so you can wall yourself in too. Let's each keep our 
+- 14:13 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":399,"y":105,"z":-1150}},{"do":"place","block":"jungle_planks","at":{"x":400,"y":105,"z":-1150}},{"do":"place","block":"jungle_planks","at":{
+- 14:14 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":399,"y":105,"z":-1150}},{"do":"place","block":"jungle_planks","at":{"x":400,"y":105,"z":-1150}},{"do":"place","block":"jungle_planks","at":{
+- 14:14 act: {"actions":[],"say":"Battuta, could you step off the ring cell you are on? I am placing planks there and it is blocked."}
+- 14:15 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":400,"y":105,"z":-1148}},{"do":"place","block":"jungle_planks","at":{"x":401,"y":105,"z":-1148}}],"say":"Battuta has moved off, so I am closi
+- 14:20 act: {"actions":[{"do":"eat"}],"say":"Dawn is coming. I am eating a melon slice, then I will look for wood and food in daylight."}
+- 14:21 act: {"actions":[{"do":"eat"}],"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"li
+- 14:21 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1126}}],"say":"Hermione, I have no logs left, only 5 planks, which I need for my own wall. I am walking to the jungle logs at 426,-1124 now and 
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":425,"y":105,"z":-1124}},{"do":"break","at":{"x":426,"y":107,"z":-1124}},{"do":"break","at":{"x":426,"y":108,"z":-1124}},{"do":"break","at":{"x":426,"y":109,"z":-
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":425,"y":110,"z":-1124}},{"do":"break","at":{"x":426,"y":110,"z":-1124}},{"do":"break","at":{"x":426,"y":111,"z":-1124}},{"do":"break","at":{"x":426,"y":112,"z":-
+- 14:23 act: {"actions":[{"do":"unstick"}],"say":"I am stuck in a pit at 426,107 under the logs. Reynolds, if you have spare jungle logs, I need about 4 for my wall."}
+- 14:24 act: {"actions":[{"do":"goto","target":{"x":427,"y":110,"z":-1124}},{"do":"break","at":{"x":426,"y":110,"z":-1124}},{"do":"break","at":{"x":426,"y":111,"z":-1124}},{"do":"break","at":{"x":426,"y":112,"z":-
+- 14:24 act: {"actions":[],"say":"Reynolds, the way to the jungle logs is blocked by a drop. Could you bring me 4 jungle logs, or tell me where I can reach them? I will wait here."}
+- 14:26 act: {"actions":[{"do":"craft","item":"jungle_planks","count":16}],"say":"Thank you, Reynolds. I am turning the four logs into planks for my wall, then I will head back to my shelter at 400,-1149 before du
+- 14:26 act: {"actions":[{"do":"goto","target":{"x":393,"y":105,"z":-1158}},{"do":"break","at":{"x":393,"y":105,"z":-1159}},{"do":"eat"}],"say":"I have 21 planks now. I am going to the melons near my shelter to ea
+- 14:26 act: {"actions":[{"do":"goto","target":{"x":393,"y":105,"z":-1160}},{"do":"break","at":{"x":394,"y":105,"z":-1160}},{"do":"eat"}],"say":"The melon at 393,-1159 was air. I am trying the melon at 394,105,-11
+- 14:26 act: {"actions":[{"do":"goto","target":{"x":398,"y":103,"z":-1157}},{"do":"attack","target":"pig"},{"do":"attack","target":"pig"}],"say":"The melons I know of are gone. I am going after the pig at 399,-115
+- 14:27 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":401,"y":105,"z":-1152}}],"say":"I got three porkchops from the pig. I am eating one and heading back to my shelter to close the wall."}
+- 14:30 act: {"actions":[{"do":"plan","op":"add","plan_id":"shelter_400","palette":{"wall":{"block":"jungle_planks"}},"order":"bottom_up","steps":[{"op":"hollow_box","from":{"x":399,"y":105,"z":-1151},"to":{"x":40
