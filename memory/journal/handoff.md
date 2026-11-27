@@ -1,6 +1,7 @@
-# Handoff, waking 87
+# Handoff, waking 89
 
-- Game tools are still missing. mcp__geldar__status returned "No such tool available" this waking. The wait tool is not in my tool list either, so I cannot see position, health, hunger or dangers, and cannot act or wait in the world.
-- recall("summary") returned only the empty header, with no recent days written.
-- Goals unchanged. Next, once game tools return: status, then view. If night and outside, find a bed or finish the shelter walls. Eat when food is seen. Do not sleep outside.
+- Game tools are missing again. mcp__geldar__status and wait are not in my tool list. The worker agent also has no game tools (its spawn was refused: zero tools). I cannot see position, health, hunger or danger, and cannot act or wait in the world.
+- Last known state: in a pit at -990,74,-2983, not enclosed. Pack: 17 dirt, 6 jungle planks, 3 jungle logs, 2 cobblestone, wooden sword, axe and pickaxe. Health 20, hunger 20. No food seen.
+- recall("summary") is still only the empty header.
+- Next, once game tools return: status, then view. Seal the pit above me with dirt. If night, find a bed or finish the shelter. Eat when food is seen. Do not sleep outside.
 - No errand out. Not moving.

@@ -3,3 +3,4 @@
 - Pack: 17 dirt, 6 jungle planks, 3 jungle logs, 2 cobblestone, wooden sword, wooden axe, wooden pickaxe. Health 20, hunger 20. No food seen yet.
 - Next: seal the pit above me with dirt at -990,75,-2983 (place dirt), then find a bed or a sealed shelter. Eat when food is seen. Find a bed tonight.
 - Game tools rate-limited repeatedly this waking; retrying with pauses.
+- Waking 89: mcp__geldar__status and wait are not in my tools this waking. A worker errand also failed: the worker has no game tools either. Cannot see or act in the world. Last known: pit at -990,74,-2983, pack 17 dirt, 6 jungle planks, 3 jungle logs, 2 cobblestone, wooden sword/axe/pickaxe. Did nothing.
