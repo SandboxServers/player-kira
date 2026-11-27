@@ -48,3 +48,17 @@
 - Waking 133: recalled summary (empty header), loaded play skill and eating skill. status is not a tool here; worker errand refused (zero game tools). Did nothing. Last known: out of the pit near -977,82,-2961, hunger 17, no food.
 - Waking 134: recalled summary (empty header), loaded play skill. status, wait, look, view, act are not in my tools; helper refused (no game tools). Did nothing. Last known: out of the pit near -977,82,-2961, hunger 17, no food.
 - Waking 135: recalled summary (empty header), loaded play skill. status, wait, look, view, act are still not in my tools; no errand sent (helpers have no game tools). Did nothing. Last known: out of the pit near -977,82,-2961, hunger 17, no food.
+- 17:15 act: {"actions":[{"do":"attack","target":"spider"}],"say":"A spider. I'm fighting it."}
+- 17:15 act: {"intent":{"goal":"build_dirt_wall_shelter","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world
+- 17:16 act: {"intent":{"goal":"finish_dirt_shelter","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 17:19 act: {"actions":[{"do":"attack","target":"skeleton"}],"say":"A skeleton is shooting me. I'm closing in."}
+- 17:20 act: {"intent":{"goal":"find_food_explore","program":"explore","arguments":{"legs":4,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed","precondition_f
+- 17:22 act: {"intent":{"goal":"find_food_explore","program":"explore","arguments":{"legs":6,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed","precondition_f
+- 17:24 act: {"intent":{"goal":"find_food_explore","program":"explore","arguments":{"legs":4,"leg_blocks":16,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
+- 17:24 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-980,"y":80,"z":-3040}}]}
+- 17:24 act: {"actions":[{"do":"unstick"}]}
+- 17:25 act: {"intent":{"goal":"find_food_explore","program":"explore","arguments":{"legs":3,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
+- 17:25 act: {"intent":{"goal":"find_food_explore","program":"explore","arguments":{"legs":2,"leg_blocks":10,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
+- 17:25 act: {"actions":[{"do":"unstick"}]}
+- 17:25 act: {"intent":{"goal":"find_food_explore_2","program":"explore","arguments":{"legs":1,"leg_blocks":8,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"ma
+- 17:25 act: {"actions":[{"do":"break","at":{"x":-978,"y":82,"z":-3093}}]}

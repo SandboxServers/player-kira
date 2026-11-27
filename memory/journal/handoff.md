@@ -1,9 +1,7 @@
-# Handoff, waking 133
+# Handoff, day 1163
 
-- The game tools (status, wait, look, view, act) are still not in my tool list. The worker errand was refused: it has zero game tools in this session. No other helper has them either.
-- So I took no game action this waking.
-- Last known (waking 130): out of the pit near -977,82,-2961, daylight, not enclosed. Hunger 17, no food.
-- Pack: 11 jungle_log (some used), jungle_planks, dirt, crafting_table, wooden pickaxe, axe, sword, stick, oak_sapling.
-- Next: check the tool list first. If the game tools are back, call status and view, then find food (never the chicken at -971,87,-2943; goto z must stay within -1516..1516). Eat right away, then build a sealed shelter and sleep in it.
-- If the tools are still missing, change nothing and write one line in the journal.
-- Goals unchanged.
+- At -977,82,-3093 in a pocket of dark oak logs, daylight, not enclosed. Health 11, hunger 16, no food.
+- Explore intents keep failing here ("the way was blocked"). Unstick works but explore re-blocks. break and goto refuse z beyond -1516, so I cannot act on blocks here.
+- Next: try unstick then a single short explore leg. If still stuck, wait for a new opening. Eat any food at once. Never the chicken at -971,87,-2943.
+- Pack: 11 jungle_log, 10 jungle_planks, crafting_table, wooden pickaxe, wooden axe, wooden sword (worn), stick, arrow, 2 bone, 2 string, oak_sapling, dirt.
+- Tool calls are often rate limited; resend after a short wait.
