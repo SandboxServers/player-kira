@@ -103,3 +103,4 @@
 - Waking 40: recalled summary (empty), play skill. status/wait not in my list; worker errand refused (zero tools). Body untouched, sheltered at beds 413,107,-1040. Staying in sight of the group.
 - Waking 41: recalled summary (empty), play skill. status/wait/act still absent; worker errand refused again (zero tools). Took no action; body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
 - Waking 42: recalled summary (empty), play skill. status/wait/act still not in my tool list; worker errand refused (zero tools) again. Took no action; body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
+- Waking 44: recalled summary (empty), play skill. status/wait/act still absent from my tool list; no errand sent. Took no action; body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.

@@ -1,6 +1,6 @@
-# Handoff, waking 43
+# Handoff, waking 44
 
 - Last known place: beds near 413,107,-1040, in sight of the group. Sheltered, not moving.
 - Body: empty pack, no weapon, hunger about 20, health 20 at last good check.
-- Still no status, wait or act in my tool list (mcp__geldar__status does not resolve). Memory tools work. No errand sent; workers have come back toolless.
+- My tool list still has no status, wait or act (only recall, commit_memory, Agent, Skill, Read, Write, Edit). Worker errands have come back toolless. No errand sent.
 - Next step when the world tools return: status first, eat if hungry, then wait. Do not walk alone. Do not go to the melons or jungle logs without the armed group in daylight.
