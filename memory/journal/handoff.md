@@ -1,9 +1,6 @@
-# Handoff, day 1154 (dusk), waking 3
+# Handoff, day 1154 (night), waking 4
 
-- Position: 402,105,-1151, on grass. Not enclosed. Dusk.
-- Pack: 6 jungle_planks (held), 2 porkchop, 1 melon slice, 3 sticks, wooden sword, flint, gravel.
-- Health 20, hunger 20.
-- Plan: raise a pillar of jungle planks (build, blueprint pillar) for the night. Not yet queued.
-- Blocker: every world call (act, wait, journal) returns rate_limited with retryAfter 1, repeatedly, even after waits of 10 and 60 seconds.
-- Next step: retry the pillar build intent with wait_on goal_completed; if still limited, wait and retry. Shelter the night first if possible.
-- Nearest known bed is about 100 blocks south (415,107,-1051), too far to use.
+- Died to zombies at 416,95,-1246 on open ground. My things lie there: wooden_sword x2, gravel, flint, 3 jungle_planks, 2 rotten_flesh, porkchop, 3 sticks. Night, too dangerous to fetch.
+- Now at about 414,107,-1043, beside the white beds at 413,107,-1042 and 413,107,-1041. Health 20, hunger 20. Empty pack. Not enclosed.
+- Plan: get into a bed and sleep until morning. Then fetch my things at 416,95,-1246 in daylight, if safe.
+- Lesson: at night do not fight zombies in the open with a wooden sword.

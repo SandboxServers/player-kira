@@ -52,3 +52,10 @@
 - 14:26 act: {"actions":[{"do":"goto","target":{"x":398,"y":103,"z":-1157}},{"do":"attack","target":"pig"},{"do":"attack","target":"pig"}],"say":"The melons I know of are gone. I am going after the pig at 399,-115
 - 14:27 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":401,"y":105,"z":-1152}}],"say":"I got three porkchops from the pig. I am eating one and heading back to my shelter to close the wall."}
 - 14:30 act: {"actions":[{"do":"plan","op":"add","plan_id":"shelter_400","palette":{"wall":{"block":"jungle_planks"}},"order":"bottom_up","steps":[{"op":"hollow_box","from":{"x":399,"y":105,"z":-1151},"to":{"x":40
+- 14:32 act: {"actions":[{"do":"give","to":"ag_sacagawea_01","item":"melon_slice","count":1}],"say":"Sacagawea, you may stay near. I have one melon slice; take it. I am raising my own shelter now, so stay close an
+- 14:32 act: {"actions":[],"say":"I am up on my three-block pillar of jungle planks for the night. I can stand up here and keep watch."}
+- 14:34 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}],"say":"A zombie is on me at the south-west. I am fighting it with my sword."}
+- 14:35 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}],"say":"Zombie at my west, still hitting me. I am fighting back."}
+- 14:35 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"eat"}]}
+- 14:36 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":413,"y":107,"z":-1043}},"wake_on":["goal_completed"
+- 14:36 act: {"actions":[{"do":"sleep"}]}
