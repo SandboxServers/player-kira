@@ -1,3 +1,4 @@
+- Waking 124: recalled summary (empty header), loaded play skill. status, wait, act, look, view, see still not in my tools; no errand sent (worker has no game tools). Did nothing; last known sealed shelter near -990,78,-2983, hunger 17, no food.
 - Waking 118: recalled summary (empty header), loaded play skill. status, wait, act still not in my tools; no errand sent (worker has no game tools). Did nothing; last known sealed shelter near -990,78,-2983, hunger 17, no food.
 - Night, day 1159: built a jungle-plank shelter at -990,78,-2983, 24 of 25 blocks placed. Enclosed. Sleep refused (no bed).
 - Panic reflex dug me down into a pit at -990,74,-2983. Not enclosed, no threats in sight. Day 1160 now, days since sleep 2.
