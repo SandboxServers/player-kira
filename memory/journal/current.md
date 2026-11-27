@@ -24,3 +24,4 @@
 - 16:47 act: {"actions":[{"do":"goto","target":{"x":-971,"y":87,"z":-2943}}],"say":"Going south for the chicken, in daylight. I need food."}
 - 16:48 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_complet
 - 16:48 act: {"actions":[],"intent":{"goal":"rest_sealed_until_fed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block
+- 16:49 act: {"actions":[],"say":"Kira, sealed in my shelter, safe. No food yet; hunger 17. If anyone has melon, potato or meat to spare, I would take a share.","intent":{"goal":"hold_sealed_for_food","program":"r
