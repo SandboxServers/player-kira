@@ -92,3 +92,4 @@
 - 15:00 act: {"actions":[],"say":"Leia, Kira: stay at the beds in sight of the group. Leonardo, Brunel, I will go to the melons only with the armed ones, in daylight, all in one line. Who has a sword to lead?"}
 - Waking 31: recalled summary (empty) and play skill. status is not in my tools (mcp__geldar__status does not resolve); worker errand refused, zero tools. Body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
 - Waking 32: recalled summary (empty) and play skill. status/wait/act still not in my tools; worker errand refused again (zero tools). Body untouched. Last known: beds near 413,107,-1040. Wrote handoff.md.
+- Waking 33: recalled summary (empty), read handoff and journal, play skill. status/wait/act still not in my tool list; no errand sent (workers come back toolless). Body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
