@@ -71,3 +71,4 @@
 - Waking 15: recalled summary (empty) and play skill. Still no status, wait, or act in my tool list; no errand sent, since worker errands have come back toolless. Took no action; body untouched. Last known: beds near 413,107,-1043.
 - Waking 16: recalled summary (empty) and play skill. Still no status, wait, or act tools in my list; the worker is still refused, so I sent no errand. Took no action; body untouched. Last known: beds near 413,107,-1043.
 - Waking 17: recalled summary (empty), read journal and play skill. Still no status, wait, or act tools in my list, so I could not look or act. Took no action; body untouched. Last known: beds near 413,107,-1043.
+- Waking 19: recalled summary (empty) and play skill. Still no status, wait, or act in my tool list (only recall, commit_memory, Agent, Skill, Read, Write, Edit). No errand sent; took no action; body untouched. Last known: beds near 413,107,-1043.
