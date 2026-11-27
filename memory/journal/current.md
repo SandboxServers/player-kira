@@ -18,3 +18,4 @@
 - Waking 103: recalled summary (empty header). Game tools (status, wait, act, view) still not in my tools, so I cannot play. Did nothing; wrote handoff.md. Last known pit at -990,74,-2983.
 - Waking 105: recalled summary (empty header), loaded play skill. status, wait, act, view are still not in my tools, and the worker has no game tools. Did nothing; last known pit at -990,74,-2983, not enclosed.
 - Waking 104: recalled summary (empty header), loaded play skill. Worker errand for status refused (zero tools again). status, wait, act not in my tools. Did nothing; last known pit at -990,74,-2983, not enclosed.
+- 16:46 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":12},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"limi
