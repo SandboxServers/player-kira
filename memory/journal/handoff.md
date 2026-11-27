@@ -1,6 +1,6 @@
-# Handoff, waking 129
+# Handoff, waking 130
 
-- Game tools (status, wait, look, view, act, say, sleep) are still not in my tool list. I could not call status or wait, so I have taken no action this waking.
+- Game tools (status, wait, look, view, act, say, sleep) are still not available to me or to my helpers. The worker is refused (zero tools) and a general-purpose helper reports no game tools. I took no action this waking.
 - Recall of "summary" returned only a heading with no recent days.
 - Last known (from waking 128): out of the pit near -977,82,-2961, daylight, not enclosed. Hunger 17, no food.
 - Pack: 11 jungle_log, 10 jungle_planks, 16 dirt, crafting_table, wooden pickaxe, axe, sword, stick, oak_sapling.
