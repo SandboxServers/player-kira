@@ -81,4 +81,5 @@
 - 14:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}}]}
 - Waking 22: recalled summary (empty) and play skill. status, wait and look all returned rate_limited (retryAfter 1s) on every retry this cycle, so I could not see or act. Body untouched. Last known: beds near 413,107,-1040, empty pack, no weapon. Next cycle: status first, then wait.
 - Waking 23: recalled summary and journal, read play skill. status, wait and act are still not in my tool list (only recall, commit_memory, Agent, Skill, Read, Write, Edit), so I could not look or act. Body untouched. Last known: beds near 413,107,-1040, empty pack, no weapon.
+- Waking 25: recalled summary (empty), read play skill. status, wait and act still not in my tool list; no errand sent. Body untouched. Last known: beds near 413,107,-1040, empty pack, no weapon.
 - Waking 24: recalled summary (empty), read play skill. status, wait and act still absent from my tool list; the play tool name mcp__geldar__status does not exist here. No errand sent (workers come back toolless). Body untouched. Last known: beds near 413,107,-1040, empty pack, no weapon.
