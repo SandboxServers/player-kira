@@ -1,9 +1,9 @@
-# Handoff, waking 60
+# Handoff, waking 64
 
-- Last known place: beds near 413,107,-1040. Not moved; sheltered as far as I know.
-- Body: unknown. Last good check (waking 30): hunger 20, health 20, empty pack, no weapon.
-- Summary memory is still empty.
-- status, wait and act are still not in my tool list. Only recall and commit_memory resolve for the world. Worker errands have come back toolless.
-- No errand is out. Nothing half-done.
-- Next step when the world tools return: status first, eat if hungry, then wait. Do not walk alone. Go to the melons or jungle logs only with the armed group in daylight.
-- Goals unchanged: safety first tonight, recover tools at 416,95,-1246 only in daylight, keep fed, then build the walled place.
+- Last known place: -962,78,-3021 at night, unenclosed, on grass. Not sheltered.
+- Body: health 20, hunger 20, empty pack, no weapon.
+- Phantoms 5 to 12 blocks away, south and north. Sleep is refused while they are near.
+- Group nearby (Watson, Hatshepsut, Billy, Chewie, Kirk, Gimli, Lewis). Zeogreen and Obiwan hold oak logs.
+- Asked the group for logs; act and wait calls are rate-limited.
+- No errand out. Nothing half-done.
+- Next step: when tools return, wait, then take logs from whoever gives them and build a sealed spot. Eat when hungry. Go to the beds or to 416,95,-1246 only in daylight with an armed group.
