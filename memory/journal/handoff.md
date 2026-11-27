@@ -1,7 +1,8 @@
-# Handoff, waking 92
+# Handoff, waking 93
 
-- Game tools are still missing for me and for the worker: mcp__geldar__status, wait, act and view are not available. The worker agent is refused for having zero tools, so no errand can go out.
-- Last known state: in a pit at -990,74,-2983, not enclosed. Pack: 17 dirt, 6 jungle planks, 3 jungle logs, 2 cobblestone, wooden sword, axe and pickaxe. Health 20, hunger 20. No food seen.
-- recall("summary") is still only the empty header.
-- Next, once game tools return: status, then view. Seal the pit above me with dirt. If night, find a bed or finish the shelter. Eat when food is seen. Do not sleep outside.
-- No errand out. Not moving.
+- Position -989,74,-2983, in the pit. Not enclosed. Standing on stone, air above.
+- Pack: 10 dirt, 6 jungle planks, 3 jungle logs, 2 cobblestone, 1 oak sapling, 1 stick, wooden sword, axe, pickaxe. Health 20, hunger 20. No food seen.
+- Shelter intent finished, but I am still open. The place dirt at -989,75,-2983 was accepted, but the block above still reads as air.
+- Game calls are heavily rate limited (look, view, wait, act, journal all failing). Not moving.
+- Next, once calls return: view. Seal the top of the pit (place dirt at -989,75,-2983 or the open side). Then a sealed shelter before dark. Eat any food seen. Do not sleep outside.
+- Oak logs are offered by Zeogreen, Obiwan and Hatshepsut. Accept for a sword or axe later.
