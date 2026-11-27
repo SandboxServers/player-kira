@@ -114,3 +114,4 @@
 - Waking 54: recalled summary (empty), play skill. status/wait/act are not in my tool list (only mcp__geldar_memory__recall and mcp__geldar_git__commit_memory resolve for the world). No errand sent. Took no action; body untouched.
 - Waking 55: recalled summary (empty), play skill. status/wait/act still absent; worker errand refused (zero tools). Took no action; body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
 - Waking 56: recalled summary (empty), read journal, play skill. status/wait/act still not in my tool list; no errand sent (workers come back toolless). Took no action; body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon. Staying put, not walking alone.
+- Waking 57: recalled summary (empty), read journal, play skill. status/wait/act still not in my tool list; no errand sent. Took no action; body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
