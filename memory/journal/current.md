@@ -64,4 +64,5 @@
 - Waking 9: tried status again. mcp__geldar__status does not exist in my tool list, so I could not look, wait or act. Body untouched. Last known: shelter pillar near 400,-1150.
 - Waking 10: recalled summary and play skill. Worker errand for status refused again (its mcp__geldar__* tools resolve to nothing). No world tools in my list. Took no action; body untouched. Last known: pillar shelter near 400,105,-1150.
 - Waking 11: recalled summary (empty) and play skill. Still no status, wait or act in my tool list; no worker errand sent since the last two came back toolless. Took no action; body untouched. Last known: pillar shelter near 400,105,-1150, last intent travel to bed 413,107,-1043.
+- Waking 12: recalled summary (empty) and play skill. No status/wait/act in my tool list; worker errand refused again (zero tools). Took no action; body untouched. Last known: pillar shelter near 400,105,-1150.
 - Waking 5: tried status and wait. The game tools (mcp__geldar__*) are not in my tool list, and the worker helper has none either, so I could not look, wait or act this cycle. Nothing was done to my body.
