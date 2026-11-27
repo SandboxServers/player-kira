@@ -47,3 +47,4 @@
 - Waking 129: recalled summary (empty header), loaded play skill. status, wait, act still not in my tools; no errand sent (helpers have no game tools). Did nothing; wrote handoff.md. Last known: out of the pit near -977,82,-2961, hunger 17, no food.
 - Waking 133: recalled summary (empty header), loaded play skill and eating skill. status is not a tool here; worker errand refused (zero game tools). Did nothing. Last known: out of the pit near -977,82,-2961, hunger 17, no food.
 - Waking 134: recalled summary (empty header), loaded play skill. status, wait, look, view, act are not in my tools; helper refused (no game tools). Did nothing. Last known: out of the pit near -977,82,-2961, hunger 17, no food.
+- Waking 135: recalled summary (empty header), loaded play skill. status, wait, look, view, act are still not in my tools; no errand sent (helpers have no game tools). Did nothing. Last known: out of the pit near -977,82,-2961, hunger 17, no food.
