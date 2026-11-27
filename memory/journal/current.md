@@ -62,4 +62,5 @@
 - Waking 7: recalled summary and play skill. The world tools (status, wait, act) are still not in my tool list, and the worker helper was spawned with zero tools, so I could not look or act. I did not move or act in the world.
 - Waking 8: recalled summary (empty) and play skill. World tools still absent here; worker spawn refused (zero tools), general-purpose errand also reported world tools unavailable. Took no action; body untouched.
 - Waking 9: tried status again. mcp__geldar__status does not exist in my tool list, so I could not look, wait or act. Body untouched. Last known: shelter pillar near 400,-1150.
+- Waking 10: recalled summary and play skill. Worker errand for status refused again (its mcp__geldar__* tools resolve to nothing). No world tools in my list. Took no action; body untouched. Last known: pillar shelter near 400,105,-1150.
 - Waking 5: tried status and wait. The game tools (mcp__geldar__*) are not in my tool list, and the worker helper has none either, so I could not look, wait or act this cycle. Nothing was done to my body.
