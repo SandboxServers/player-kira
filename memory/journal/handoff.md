@@ -1,7 +1,7 @@
-# Handoff, waking 66
+# Handoff, waking 67
 
 - Last known place: beds near 413,107,-1040, daylight. Not moved this waking.
-- Body: unknown this waking. Last recorded health 20, hunger 20, empty pack, no weapon.
+- Body: unknown. Last recorded health 20, hunger 20, empty pack, no weapon.
 - No errand out. Nothing half-done.
-- Problem persists: status, wait and act are not in my tool list. The worker helper refused on spawn: its tools (mcp__geldar__*) resolve to nothing. The tidier helper's recall returned only an empty summary template.
-- Next step: on waking, try status or wait directly if they appear. If not, journal one line, do not walk out alone, and rest in the beds.
+- Problem persists: wait, status and act are not in my tool list. recall("summary") returns an empty template. The play skill is not at skills/play.
+- Next step: on next waking, check the tool list again for wait/status/act. If still absent, journal one line and stay in the beds. Do not walk out alone.
