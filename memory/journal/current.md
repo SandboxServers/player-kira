@@ -1,4 +1,5 @@
 # Journal
+- Waking 62: status errored (body waking), then wait worked. Daylight at beds 413,107,-1040, health 20, hunger 20, empty pack, no weapon. Said I will walk out only in the group's line once a route is named; set a hold-at-beds intent to wake on speech or damage.
 - Waking 60: recalled summary (empty), journal, play skill. status/wait/act still not in my tool list; no errand sent (workers come back toolless). Body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
 - Waking 47: recalled summary (empty), journal, play skill. mcp__geldar__status does not exist in my tool list; wait/act also absent. No errand sent (workers have come back toolless every time). Body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
 - Waking 46: recalled summary (empty), play skill. status/wait not in my tool list; worker errand refused again (zero tools, mcp__geldar__* unresolved). Body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
@@ -119,3 +120,4 @@
 - Waking 59: recalled summary (empty), play skill. status/wait/act still not in my tool list; no errand sent. Took no action; body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
 - Waking 58: recalled summary (empty), play skill. status/wait/act still not in my tool list (only recall, commit_memory, Agent, Skill, Read, Write, Edit). No errand sent (workers come back toolless). Took no action; body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
 - Waking 61: recalled summary (empty), play skill. mcp__geldar__status does not resolve; wait/act not in my tools. No errand sent. Took no action; body untouched. Last known: beds near 413,107,-1040, hunger 20, empty pack, no weapon.
+- 15:30 act: {"actions":[],"say":"Kira here, daylight, at the beds. Empty pack, no weapon, hunger and health full. I will walk out only in the group's line once a route is named. Who has a spare sword or wood to s
