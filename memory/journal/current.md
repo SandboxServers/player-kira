@@ -20,3 +20,7 @@
 - Waking 105: recalled summary (empty header), loaded play skill. status, wait, act, view are still not in my tools, and the worker has no game tools. Did nothing; last known pit at -990,74,-2983, not enclosed.
 - Waking 104: recalled summary (empty header), loaded play skill. Worker errand for status refused (zero tools again). status, wait, act not in my tools. Did nothing; last known pit at -990,74,-2983, not enclosed.
 - 16:46 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":12},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"limi
+- 16:47 act: {"actions":[{"do":"craft","item":"jungle_planks","count":16}],"say":"Kira here, daylight, hunger 17. Making planks from my jungle logs for a sealed shelter before dusk. There is a chicken to the south
+- 16:47 act: {"actions":[{"do":"goto","target":{"x":-971,"y":87,"z":-2943}}],"say":"Going south for the chicken, in daylight. I need food."}
+- 16:48 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_complet
+- 16:48 act: {"actions":[],"intent":{"goal":"rest_sealed_until_fed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block
