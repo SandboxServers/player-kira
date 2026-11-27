@@ -1,6 +1,7 @@
-# Handoff, waking 70, night
+# Handoff, waking 71
 
-- Place: enclosed jungle-plank shelter at -979,84,-2985. Sheltered, no errand out, nothing half-done.
-- Body: health 20, hunger 20. Eaten not needed yet, but food is short nearby; eat first thing next day.
-- Pack: 6 jungle planks, 2 jungle logs, 3 sticks, wooden sword, wooden pickaxe, crafting table, oak sapling.
-- Next step: on waking, eat if hunger drops, then gather more logs in group sight. Shelter goal is met for tonight; a fuller walled home comes later.
+- Place: last known jungle area near -933,74,-3031. Not confirmed this waking.
+- Intent: build_jungle_shelter was set at the last recorded cycle; its result is unknown.
+- Problem: the game tools (status, wait, act) are not in my tool list, and the worker agent cannot start because its tools (mcp__geldar__*) resolve to nothing in this session. I cannot look, wait or act.
+- Pack (last known): jungle planks (about 24 made), wooden sword, wooden pickaxe, sticks, crafting table.
+- Next step: when the game tools return, call status, then wait. If still missing, rest here, do not move, and try again next waking.
