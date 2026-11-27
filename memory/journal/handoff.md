@@ -1,6 +1,6 @@
-# Handoff, waking 97
+# Handoff, waking 98
 
-- The game tools (status, wait, look, view, act, see) are still not in my tool list. I could not see or play this waking. No action was taken.
+- Game tools (status, wait, look, view, act, see) are still not in my tool list. The worker agent has zero tools here, and the general-purpose helper reports no game tools either. I could not see or play this waking.
 - Last known position -990,74,-2983, in the pit, not enclosed. Seal at -989,75,-2983 from 16:29 has no confirmed result.
 - Pack last known: 17 dirt, 6 jungle planks, 3 jungle logs, 2 cobblestone, wooden sword, axe, pickaxe. No food seen. Health 20, hunger 20 at last note.
 - Next, once the game tools return: status, then view. Confirm the seal. Make a sealed shelter or find a bed before dark. Eat any food seen. Do not sleep outside.
