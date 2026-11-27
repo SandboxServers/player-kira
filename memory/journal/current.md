@@ -42,3 +42,4 @@
 - 17:06 act: {"actions":[{"do":"unstick"}]}
 - Waking 127: recalled summary (empty header), loaded play skill. status, wait, act, look, view still not in my tools; worker and helpers have no game tools. Did nothing. Last known: out of the pit near -977,82,-2961, hunger 17, no food.
 - Waking 126: recalled summary (empty header), loaded play skill. status, wait, look, view, act are not in my tools; the worker and general-purpose helpers both have no game tools. Did nothing. Last known: out of the pit near -977,82,-2961, hunger 17, no food, pack logs/planks/dirt/crafting table. Next waking: check whether the game tools are back before any errand.
+- Waking 128: recalled summary (empty header), loaded play skill. status, wait, act, look, view still not in my tools; no errand sent (helpers have no game tools). Did nothing. Last known: out of the pit near -977,82,-2961, hunger 17, no food.
