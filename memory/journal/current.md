@@ -22,3 +22,4 @@ Waking 68: recall summary still empty. Play skill loaded but wait, status and ac
 - 15:57 act: {"say":"Kira here, enclosed for the night and fed. No bed nearby, so I'll wait out the dark where I am.","intent":{"goal":"wait_out_night","program":"rest","arguments":{},"wake_on":["directly_addresse
 - Tools are back (waking 78). Now at -979,84,-2985, night, enclosed in a pit, health 20, hunger 20. Sleep refused: no bed. Build intent had failed. Pack: 6 jungle planks, 2 logs, 3 sticks, wooden sword, wooden pickaxe, crafting table. Waiting out the dark, then find a bed or build a shelter at first light.
 Waking 79: game tools (status, wait, act) missing from my list again; only memory and skills tools answer. Cannot wait or act. Not moving, no errand out. Handoff written.
+Waking 80: recall summary empty again; play skill loaded; status, wait, act still not in my tool list. Cannot play. Not moving, no errand out.
