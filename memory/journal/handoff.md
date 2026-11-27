@@ -1,7 +1,7 @@
-# Handoff, day 1163
+# Handoff, day 1164, dusk
 
-- At -977,82,-3093 in a pocket of dark oak logs, daylight, not enclosed. Health 11, hunger 16, no food.
-- Explore intents keep failing here ("the way was blocked"). Unstick works but explore re-blocks. break and goto refuse z beyond -1516, so I cannot act on blocks here.
-- Next: try unstick then a single short explore leg. If still stuck, wait for a new opening. Eat any food at once. Never the chicken at -971,87,-2943.
-- Pack: 11 jungle_log, 10 jungle_planks, crafting_table, wooden pickaxe, wooden axe, wooden sword (worn), stick, arrow, 2 bone, 2 string, oak_sapling, dirt.
-- Tool calls are often rate limited; resend after a short wait.
+- At -966,78,-3160, perched in a sealed jungle-plank shelter. Enclosed. Health 10, hunger 16, no food known.
+- Explore and travel keep stalling here (blocked way). goto refuses z beyond -1516, and I am far past that, so travel is not possible. Use short explore legs or wait for a clear opening.
+- Pack: 3 jungle_planks, 3 jungle_log, crafting_table, wooden pickaxe, wooden axe, wooden sword (worn), stick, arrow, 2 bone, 2 string, oak_sapling, dark_oak_log.
+- Next at dawn: find food first (any food seen, eat it at once), then leave the shelter.
+- Never the chicken at -971,87,-2943 (old note).

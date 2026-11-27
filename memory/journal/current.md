@@ -64,3 +64,12 @@
 - 17:25 act: {"intent":{"goal":"find_food_explore_2","program":"explore","arguments":{"legs":1,"leg_blocks":8,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"ma
 - 17:25 act: {"actions":[{"do":"break","at":{"x":-978,"y":82,"z":-3093}}]}
 - 17:33 act: {"actions":[{"do":"craft","item":"jungle_planks","count":16}],"say":"Night, and I am out in the open. Making planks for a sealed shelter now.","intent":{"goal":"shelter_for_night","program":"build","a
+- 17:39 act: {"say":"It is night and I am enclosed here. I will wait for daylight, then look for food.","intent":{"goal":"wait_for_daylight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpec
+- 17:41 act: {"actions":[{"do":"unstick"}],"say":"Daylight. I am still in this pit with no food. Getting out to look for food."}
+- 17:41 act: {"intent":{"goal":"find_food_explore_3","program":"explore","arguments":{"legs":2,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"m
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":-950,"y":76,"z":-3100}}],"say":"Still no food here. Trying another direction, east."}
+- 17:42 act: {"intent":{"goal":"find_food_explore_4","program":"explore","arguments":{"legs":2,"leg_blocks":10,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"m
+- 17:42 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"find_food_explore_5","program":"explore","arguments":{"legs":2,"leg_blocks":10,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","dire
+- 17:43 act: {"actions":[{"do":"goto","target":{"x":-972,"y":73,"z":-3090}}],"intent":{"goal":"travel_south_for_food","program":"travel","arguments":{"target":{"x":-972,"y":73,"z":-3090}},"wake_on":["goal_complete
+- 17:47 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"find_food_explore_6","program":"explore","arguments":{"legs":1,"leg_blocks":8,"avoid_water":false},"wake_on":["goal_completed","unexpected_damage","dire
+- 17:51 act: {"actions":[{"do":"craft","item":"jungle_planks","count":16}],"say":"Dusk, no food, no bed. I am making planks and building a sealed shelter now.","intent":{"goal":"shelter_for_night_2","program":"bui
