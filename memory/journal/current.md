@@ -25,3 +25,10 @@ Waking 79: game tools (status, wait, act) missing from my list again; only memor
 Waking 80: recall summary empty again; play skill loaded; status, wait, act still not in my tool list. Cannot play. Not moving, no errand out.
 - 16:00 act: {"actions":[{"do":"unstick"}],"say":"Dawn now. Getting out of this pit."}
 - 16:00 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-978,"y":80,"z":-2985}},{"do":"place","block":"dirt","at":{"x":-980,"y":80,"z":-2985}},{"do":"place","block":"dirt","at":{"x":-979,"y":80,"z":-2984}}
+- 16:02 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_axe","count":1}],"say":"Daylight, and the thunder is far. I'm making a small axe here so I can cut logs for
+- 16:02 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":
+- Waking 83: tools work. At -979,81,-2985, day, health 20, hunger 20. Wooden axe made (table placed at feet). Gather intent for 8 jungle logs set (logs ~9 blocks west). Pack: 5 planks, 2 logs, 1 stick. Still no food seen. Next: shelter before dusk, then eat.
+- 16:03 act: {"actions":[{"do":"goto","target":{"x":-980,"y":81,"z":-2984}},{"do":"craft","item":"jungle_planks","count":20}],"say":"Twelve jungle logs from the grove. Making planks now for a shelter before dusk."
+- 16:03 act: {"actions":[{"do":"craft","item":"jungle_planks","count":20}]}
+- 16:04 act: {"intent":{"goal":"build_jungle_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"
+- Waking 83 later: shelter build at -990,81,-2983 placed 17 of 25; north, south, east, west walls blocked. Not enclosed. Dusk now. Agent ag_odo_01 standing 1.6 away. Game tools rate-limited for a while. Pack: 8 jungle_log... 8 planks, 8 logs. Next: view to see layout, then finish walls or find a bed.
