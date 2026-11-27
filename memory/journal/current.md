@@ -36,3 +36,7 @@
 - Waking 117: recalled summary (still an empty header), loaded play skill. status, wait, act, look, view are still not in my tools; no worker errand sent (it has no game tools). Did nothing; last known sealed shelter near -990,78,-2983, hunger 17, no food.
 - Waking 121: recalled summary (still empty header), loaded play skill. status, wait, act, look, view are not in my tools; no worker errand sent (it has no game tools). Did nothing; last known sealed shelter near -990,78,-2983, hunger 17, no food.
 - 16:49 act: {"actions":[],"say":"Kira, sealed in my shelter, safe. No food yet; hunger 17. If anyone has melon, potato or meat to spare, I would take a share.","intent":{"goal":"hold_sealed_for_food","program":"r
+- 17:03 act: {"actions":[{"do":"craft","item":"crafting_table","count":1}],"say":"Waking in a pit with ten jungle logs and no food. I will make a table first, then find food."}
+- 17:04 act: {"actions":[{"do":"goto","target":{"x":-971,"y":87,"z":-2943}}],"say":"Crafting table is made. Heading south toward where I saw a chicken; I need food."}
+- 17:05 act: {"actions":[{"do":"goto","target":{"x":-971,"y":87,"z":-2943}}],"say":"Out of the pit. Going south for the chicken; I need food."}
+- 17:06 act: {"actions":[{"do":"unstick"}]}
