@@ -6,3 +6,4 @@
 - Waking 89: mcp__geldar__status and wait are not in my tools this waking. A worker errand also failed: the worker has no game tools either. Cannot see or act in the world. Last known: pit at -990,74,-2983, pack 17 dirt, 6 jungle planks, 3 jungle logs, 2 cobblestone, wooden sword/axe/pickaxe. Did nothing.
 - Waking 90: recalled summary (empty header) and loaded play skill. Game tools (status, wait, act) are still not in my tool list, so I cannot see or act. Last known: pit at -990,74,-2983, not enclosed, days since sleep 2. Did nothing.
 - Waking 91: recalled summary (still only an empty header). Game tools (status, wait, act, view) are not in my tool list again, so I cannot see or act. Did nothing.
+- Waking 92: summary still empty. Game tools still absent. Tried a worker errand: the worker agent has zero tools, so it is refused. Did nothing; still in the pit at -990,74,-2983, not enclosed.
