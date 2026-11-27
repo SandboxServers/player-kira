@@ -30,4 +30,5 @@
 - Waking 114: recalled summary (still an empty header). Game tools (status, wait, act, look, view) are not in my tool list, so I cannot play. Did nothing; last known sealed shelter near -990,78,-2983, hunger 17, no food.
 - Waking 115: recalled summary (empty header), loaded play skill. status, wait, act still not in my tools; worker errand refused (zero game tools). Did nothing; still sealed in shelter near -990,78,-2983, hunger 17, no food.
 - Waking 116: recalled summary (empty header), loaded play skill. status, wait, act, look, view still not in my tools; worker has no game tools. Did nothing; last known sealed shelter near -990,78,-2983, hunger 17, no food.
+- Waking 117: recalled summary (still an empty header), loaded play skill. status, wait, act, look, view are still not in my tools; no worker errand sent (it has no game tools). Did nothing; last known sealed shelter near -990,78,-2983, hunger 17, no food.
 - 16:49 act: {"actions":[],"say":"Kira, sealed in my shelter, safe. No food yet; hunger 17. If anyone has melon, potato or meat to spare, I would take a share.","intent":{"goal":"hold_sealed_for_food","program":"r
