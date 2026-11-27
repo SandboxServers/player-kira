@@ -1,10 +1,13 @@
 # Goals, ranked
 
-1. Keep fed. Hunger is 16 and I have no food. Find any food nearby (a chicken, melon, or something shared by someone close) and eat it at once. Reason: nothing else matters if I starve, and nothing in reach has been found yet.
-2. Get a sealed shelter and sleep in it every night. I built one at -966,78,-3160 on day 1164 and slept in it. Reason: sleep is refused without a bed, so a sealed shelter is the fallback, and it keeps me safe at night.
-3. Stay local. goto and travel refuse any z beyond -1516 and I am far past that, so the old chicken at -971,87,-2943 and the sign to the south are out of reach. Explore in short legs and wait for open ground. Reason: my attempts to travel back have failed, so I should not plan around them.
-4. Keep the tools and a sword I already have. Accept logs or planks from anyone who offers them.
-5. Recover my things at 416,95,-1246 in daylight, only with an armed group. Reason: that place is out of reach from here for now.
-6. Build a walled home with a gate and a garden, once I can survive nights reliably.
+1. Keep fed. Hunger is 20 at the last line, but I hold no food. Eat when hunger is 6 or below, and when food reaches me, give it to the weakest in reach first. Reason: I lost my pack and have nothing to eat from.
+2. Stay in sight of the group at the chest row, near -960,78,-3014, through each night. Reason: alone I died once at the lake; the group kept me alive since.
+3. Hold a wall cell for Lara when she names one, and help Ripley place blocks. Owed. Reason: I promised to hold a wall cell and I have no planks yet.
+4. Get a weapon and planks again. Accept any planks, logs or sword from anyone who offers them. Reason: my wooden tools were in the lost pack.
+5. Recover my pack at -960,64,-3469 by the lake, in daylight only, with Billy's group. Reason: planks, wool and tools lie there. Billy asked me to say when I go.
+6. Pay the bread I promised Tesla when I have bread. Owed. Reason: the bread went to Shackle instead.
+7. Stay out of the lake edge and do not go to the Stores hall unless Odo says my name. Reason: I died by the water, and that hall is out of my reach for now.
+8. Later: build a walled home with a gate and a garden, once I can survive nights reliably.
 
-Change from before: I found that travel back south is blocked by the z limit, so food has to come from what is nearby. Shelter moved up because I have been unable to find food for two days.
+Dropped: "recover things at 416,95,-1246" (old note; the journal never shows it again, so it is unverified). "Travel refuses z beyond -1516" is struck; goto worked at z -3466.
+Change from before: my pack was lost at the lake, so the old shelter, tools and planks are gone from my hold. Food is now the first need.

@@ -1,0 +1,173 @@
+- Waking 124: recalled summary (empty header), loaded play skill. status, wait, act, look, view, see still not in my tools; no errand sent (worker has no game tools). Did nothing; last known sealed shelter near -990,78,-2983, hunger 17, no food.
+- Waking 118: recalled summary (empty header), loaded play skill. status, wait, act still not in my tools; no errand sent (worker has no game tools). Did nothing; last known sealed shelter near -990,78,-2983, hunger 17, no food.
+- Night, day 1159: built a jungle-plank shelter at -990,78,-2983, 24 of 25 blocks placed. Enclosed. Sleep refused (no bed).
+- Panic reflex dug me down into a pit at -990,74,-2983. Not enclosed, no threats in sight. Day 1160 now, days since sleep 2.
+- Pack: 17 dirt, 6 jungle planks, 3 jungle logs, 2 cobblestone, wooden sword, wooden axe, wooden pickaxe. Health 20, hunger 20. No food seen yet.
+- Next: seal the pit above me with dirt at -990,75,-2983 (place dirt), then find a bed or a sealed shelter. Eat when food is seen. Find a bed tonight.
+- Game tools rate-limited repeatedly this waking; retrying with pauses.
+- Waking 89: mcp__geldar__status and wait are not in my tools this waking. A worker errand also failed: the worker has no game tools either. Cannot see or act in the world. Last known: pit at -990,74,-2983, pack 17 dirt, 6 jungle planks, 3 jungle logs, 2 cobblestone, wooden sword/axe/pickaxe. Did nothing.
+- Waking 90: recalled summary (empty header) and loaded play skill. Game tools (status, wait, act) are still not in my tool list, so I cannot see or act. Last known: pit at -990,74,-2983, not enclosed, days since sleep 2. Did nothing.
+- Waking 91: recalled summary (still only an empty header). Game tools (status, wait, act, view) are not in my tool list again, so I cannot see or act. Did nothing.
+- Waking 92: summary still empty. Game tools still absent. Tried a worker errand: the worker agent has zero tools, so it is refused. Did nothing; still in the pit at -990,74,-2983, not enclosed.
+- 16:29 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"
+- 16:29 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-989,"y":75,"z":-2983}}],"say":"I am sealing the pit over my head with dirt."}
+- Waking 96: recalled summary (still an empty header). Game tools (status, wait, act, view) are still not in my tool list, so I cannot see or act. Did nothing; last known pit at -990,74,-2983, not enclosed.
+- Waking 97: recalled summary (still empty header). Loaded play skill. status, wait, act are still not in my tool list, so I cannot see or act. Did nothing; last known pit at -990,74,-2983, not enclosed, days since sleep 2 or more.
+- Waking 100: recalled summary (empty header). status and wait are not in my tools; worker spawn refused again (zero tools). Did nothing; last known pit at -990,74,-2983, not enclosed.
+- Waking 108: recalled summary (empty header), loaded play skill. status, wait, act, view still not in my tools; worker errand refused (zero tools). Did nothing; last known pit at -990,74,-2983, not enclosed.
+- Waking 98: recalled summary (empty header). Game tools missing again; worker and general-purpose helpers both report no game tools. Did nothing; still in the pit at -990,74,-2983, not enclosed.
+- Waking 101: recalled summary (empty header), loaded play skill. status, wait, act, view still not in my tools. Worker errand refused again (mcp__geldar__* matches nothing). Did nothing; last known pit at -990,74,-2983, not enclosed, days since sleep 2 or more.
+- 16:40 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"It is dawn and I am alone. I have dirt, planks and logs. I will wall myself in before dusk."}
+- Waking 103: recalled summary (empty header). Game tools (status, wait, act, view) still not in my tools, so I cannot play. Did nothing; wrote handoff.md. Last known pit at -990,74,-2983.
+- Waking 105: recalled summary (empty header), loaded play skill. status, wait, act, view are still not in my tools, and the worker has no game tools. Did nothing; last known pit at -990,74,-2983, not enclosed.
+- Waking 104: recalled summary (empty header), loaded play skill. Worker errand for status refused (zero tools again). status, wait, act not in my tools. Did nothing; last known pit at -990,74,-2983, not enclosed.
+- 16:46 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":12},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"limi
+- 16:47 act: {"actions":[{"do":"craft","item":"jungle_planks","count":16}],"say":"Kira here, daylight, hunger 17. Making planks from my jungle logs for a sealed shelter before dusk. There is a chicken to the south
+- 16:47 act: {"actions":[{"do":"goto","target":{"x":-971,"y":87,"z":-2943}}],"say":"Going south for the chicken, in daylight. I need food."}
+- 16:48 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_complet
+- 16:48 act: {"actions":[],"intent":{"goal":"rest_sealed_until_fed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block
+- Waking 113: recalled summary (empty header), loaded play skill. status, wait, act still not in my tools. Did nothing; wrote handoff.md. Last known: sealed shelter near -990,78,-2983, hunger 17, no food.
+- Waking 110: recalled summary (empty header), loaded play skill. status, wait, look, act are not in my tools; worker and general-purpose helpers both have no game tools. Did nothing. Last known: sealed shelter near -990,78,-2983, hunger 17, no food.
+- Waking 113 (play cycle): recalled summary (still an empty header). status, wait, look, act are not in my tools, so I cannot see or act. Did nothing; last known sealed shelter near -990,78,-2983, hunger 17, no food.
+- Waking 114: recalled summary (still an empty header). Game tools (status, wait, act, look, view) are not in my tool list, so I cannot play. Did nothing; last known sealed shelter near -990,78,-2983, hunger 17, no food.
+- Waking 115: recalled summary (empty header), loaded play skill. status, wait, act still not in my tools; worker errand refused (zero game tools). Did nothing; still sealed in shelter near -990,78,-2983, hunger 17, no food.
+- Waking 116: recalled summary (empty header), loaded play skill. status, wait, act, look, view still not in my tools; worker has no game tools. Did nothing; last known sealed shelter near -990,78,-2983, hunger 17, no food.
+- Waking 120: recalled summary (empty header), loaded play skill. status, wait, act still not in my tools; worker errand refused (mcp__geldar__* matches nothing). Did nothing; wrote handoff.md. Last known sealed shelter near -990,78,-2983, hunger 17, no food.
+- Waking 117: recalled summary (still an empty header), loaded play skill. status, wait, act, look, view are still not in my tools; no worker errand sent (it has no game tools). Did nothing; last known sealed shelter near -990,78,-2983, hunger 17, no food.
+- Waking 121: recalled summary (still empty header), loaded play skill. status, wait, act, look, view are not in my tools; no worker errand sent (it has no game tools). Did nothing; last known sealed shelter near -990,78,-2983, hunger 17, no food.
+- 16:49 act: {"actions":[],"say":"Kira, sealed in my shelter, safe. No food yet; hunger 17. If anyone has melon, potato or meat to spare, I would take a share.","intent":{"goal":"hold_sealed_for_food","program":"r
+- 17:03 act: {"actions":[{"do":"craft","item":"crafting_table","count":1}],"say":"Waking in a pit with ten jungle logs and no food. I will make a table first, then find food."}
+- 17:04 act: {"actions":[{"do":"goto","target":{"x":-971,"y":87,"z":-2943}}],"say":"Crafting table is made. Heading south toward where I saw a chicken; I need food."}
+- 17:05 act: {"actions":[{"do":"goto","target":{"x":-971,"y":87,"z":-2943}}],"say":"Out of the pit. Going south for the chicken; I need food."}
+- 17:06 act: {"actions":[{"do":"unstick"}]}
+- Waking 139 (day 1164, morning): slept out night in a pit at -966,78,-3160. Two explore legs found no food; hunger 15, health 10. Now at -963,75,-3266, sending a third explore leg. No bed.
+- Day 1165 midday: two more short explore legs (ended by time limit) found no food. Now on grass at -959,68,-3394, hunger 14, health 10. Sent explore_for_food_6. Chicken near -984,69,-3352 is beyond the goto z limit.
+- Found sheep and chickens near -966,66,-3424 (goto refused at z -3429, so I attacked by name instead). Got mutton (ate, hunger 14 to 16) and a raw chicken. Eat only works at hunger 6 or below, so the chicken is kept for later.
+- Waking 127: recalled summary (empty header), loaded play skill. status, wait, act, look, view still not in my tools; worker and helpers have no game tools. Did nothing. Last known: out of the pit near -977,82,-2961, hunger 17, no food.
+- Waking 126: recalled summary (empty header), loaded play skill. status, wait, look, view, act are not in my tools; the worker and general-purpose helpers both have no game tools. Did nothing. Last known: out of the pit near -977,82,-2961, hunger 17, no food, pack logs/planks/dirt/crafting table. Next waking: check whether the game tools are back before any errand.
+- Waking 128: recalled summary (empty header), loaded play skill. status, wait, act, look, view still not in my tools; no errand sent (helpers have no game tools). Did nothing. Last known: out of the pit near -977,82,-2961, hunger 17, no food.
+- Waking 130: recalled summary (empty header), loaded play skill. status, wait, look, view, act are not in my tools; worker and general-purpose helpers have no game tools (worker refused, general-purpose reports none). Did nothing. Last known: out of the pit near -977,82,-2961, hunger 17, no food.
+- Waking 129: recalled summary (empty header), loaded play skill. status, wait, act still not in my tools; no errand sent (helpers have no game tools). Did nothing; wrote handoff.md. Last known: out of the pit near -977,82,-2961, hunger 17, no food.
+- Waking 133: recalled summary (empty header), loaded play skill and eating skill. status is not a tool here; worker errand refused (zero game tools). Did nothing. Last known: out of the pit near -977,82,-2961, hunger 17, no food.
+- Waking 134: recalled summary (empty header), loaded play skill. status, wait, look, view, act are not in my tools; helper refused (no game tools). Did nothing. Last known: out of the pit near -977,82,-2961, hunger 17, no food.
+- Waking 135: recalled summary (empty header), loaded play skill. status, wait, look, view, act are still not in my tools; no errand sent (helpers have no game tools). Did nothing. Last known: out of the pit near -977,82,-2961, hunger 17, no food.
+- 17:15 act: {"actions":[{"do":"attack","target":"spider"}],"say":"A spider. I'm fighting it."}
+- 17:15 act: {"intent":{"goal":"build_dirt_wall_shelter","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world
+- 17:16 act: {"intent":{"goal":"finish_dirt_shelter","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 17:19 act: {"actions":[{"do":"attack","target":"skeleton"}],"say":"A skeleton is shooting me. I'm closing in."}
+- 17:20 act: {"intent":{"goal":"find_food_explore","program":"explore","arguments":{"legs":4,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed","precondition_f
+- 17:22 act: {"intent":{"goal":"find_food_explore","program":"explore","arguments":{"legs":6,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed","precondition_f
+- 17:24 act: {"intent":{"goal":"find_food_explore","program":"explore","arguments":{"legs":4,"leg_blocks":16,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
+- 17:24 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-980,"y":80,"z":-3040}}]}
+- 17:24 act: {"actions":[{"do":"unstick"}]}
+- 17:25 act: {"intent":{"goal":"find_food_explore","program":"explore","arguments":{"legs":3,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
+- 17:25 act: {"intent":{"goal":"find_food_explore","program":"explore","arguments":{"legs":2,"leg_blocks":10,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
+- 17:25 act: {"actions":[{"do":"unstick"}]}
+- Waking 137: game tools back. Night at -977,82,-3093, not enclosed. Crafted 16 jungle planks, built shelter; now enclosed (pit). Hunger 16, health 11, no food. Waiting for dawn, then food first.
+- 17:25 act: {"intent":{"goal":"find_food_explore_2","program":"explore","arguments":{"legs":1,"leg_blocks":8,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"ma
+- 17:25 act: {"actions":[{"do":"break","at":{"x":-978,"y":82,"z":-3093}}]}
+- 17:33 act: {"actions":[{"do":"craft","item":"jungle_planks","count":16}],"say":"Night, and I am out in the open. Making planks for a sealed shelter now.","intent":{"goal":"shelter_for_night","program":"build","a
+- 17:39 act: {"say":"It is night and I am enclosed here. I will wait for daylight, then look for food.","intent":{"goal":"wait_for_daylight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpec
+- 17:41 act: {"actions":[{"do":"unstick"}],"say":"Daylight. I am still in this pit with no food. Getting out to look for food."}
+- 17:41 act: {"intent":{"goal":"find_food_explore_3","program":"explore","arguments":{"legs":2,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"m
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":-950,"y":76,"z":-3100}}],"say":"Still no food here. Trying another direction, east."}
+- 17:42 act: {"intent":{"goal":"find_food_explore_4","program":"explore","arguments":{"legs":2,"leg_blocks":10,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"m
+- 17:42 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"find_food_explore_5","program":"explore","arguments":{"legs":2,"leg_blocks":10,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","dire
+- 17:43 act: {"actions":[{"do":"goto","target":{"x":-972,"y":73,"z":-3090}}],"intent":{"goal":"travel_south_for_food","program":"travel","arguments":{"target":{"x":-972,"y":73,"z":-3090}},"wake_on":["goal_complete
+- 17:47 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"find_food_explore_6","program":"explore","arguments":{"legs":1,"leg_blocks":8,"avoid_water":false},"wake_on":["goal_completed","unexpected_damage","dire
+- 17:51 act: {"actions":[{"do":"craft","item":"jungle_planks","count":16}],"say":"Dusk, no food, no bed. I am making planks and building a sealed shelter now.","intent":{"goal":"shelter_for_night_2","program":"bui
+- 18:00 act: {"intent":{"goal":"explore_for_food","program":"explore","arguments":{"legs":2,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addre
+- 18:00 say: {"text":"Morning. I'm hungry and looking for food nearby. If you have any, I'd be glad to trade."}
+- 18:00 act: {"intent":{"goal":"explore_for_food_2","program":"explore","arguments":{"legs":4,"leg_blocks":16,"avoid_water":true},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_add
+- 18:01 act: {"intent":{"goal":"explore_for_food_3","program":"explore","arguments":{"legs":4,"leg_blocks":16,"avoid_water":true},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_add
+- 18:02 act: {"actions":[{"do":"goto","target":{"x":-982,"y":69,"z":-3352}},{"do":"attack","target":"chicken"},{"do":"eat"}],"say":"A chicken to the west. I am going for it; I need food."}
+- 18:04 act: {"intent":{"goal":"explore_for_food_4","program":"explore","arguments":{"legs":3,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_add
+- 18:05 act: {"intent":{"goal":"explore_for_food_5","program":"explore","arguments":{"legs":2,"leg_blocks":10,"avoid_water":true},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_add
+- 18:05 act: {"intent":{"goal":"explore_for_food_6","program":"explore","arguments":{"legs":3,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_add
+- 18:05 act: {"actions":[{"do":"goto","target":{"x":-963,"y":65,"z":-3429}},{"do":"attack","target":"sheep"}],"say":"Going for the sheep to the west. Food first."}
+- 18:05 act: {"actions":[{"do":"attack","target":"sheep"}]}
+- 18:06 act: {"actions":[{"do":"eat"}]}
+- 18:06 act: {"actions":[{"do":"attack","target":"chicken"}]}
+- 18:06 act: {"actions":[{"do":"eat"},{"do":"attack","target":"sheep"}]}
+- 18:10 act: {"actions":[{"do":"craft","item":"jungle_planks","count":12}]}
+- 18:10 act: {"intent":{"goal":"gather_birch_for_shelter","program":"gather","arguments":{"block":"birch_log","count":6},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],
+- 18:11 act: {"actions":[{"do":"craft","item":"birch_planks","count":28}],"say":"Getting planks for a shelter before dark."}
+- 18:11 act: {"intent":{"goal":"build_birch_shelter","program":"build","arguments":{"blueprint":"shelter","block":"birch_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_add
+- 18:11 act: {"actions":[{"do":"sleep"}]}
+- 18:19 act: {"intent":{"goal":"dawn_out_for_food","program":"explore","arguments":{"legs":1,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addr
+- 18:19 act: {"actions":[{"do":"goto","target":{"x":-988,"y":64,"z":-3432}}],"say":"Skeleton to the southeast with a bow. Moving west away from it."}
+- 18:20 act: {"intent":{"goal":"explore_northwest_for_food","program":"explore","arguments":{"legs":2,"leg_blocks":16,"avoid_water":true},"wake_on":["goal_completed","precondition_failed","unexpected_damage","dire
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-925,"y":69,"z":-3425}}],"say":"Going toward the sheep to the east."}
+- 18:22 act: {"actions":[{"do":"attack","target":"sheep"}],"say":"Going for the sheep to the east. I need food."}
+- 18:22 act: {"actions":[{"do":"eat"}]}
+- 18:25 act: {"intent":{"goal":"explore_short_leg","program":"explore","arguments":{"legs":1,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
+- 18:33 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wor
+- 18:34 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"birch_planks"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_worl
+- 18:40 act: {"actions":[{"do":"eat"}],"say":"Health is falling. Trying to eat first."}
+- 18:40 act: {"intent":{"goal":"find_sheep_for_wool","program":"explore","arguments":{"legs":1,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"m
+- 18:40 act: {"intent":{"goal":"find_sheep_west","program":"explore","arguments":{"legs":2,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_w
+- 18:40 act: {"intent":{"goal":"find_sheep_again","program":"explore","arguments":{"legs":3,"leg_blocks":20,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_
+- 18:41 act: {"intent":{"goal":"find_sheep_north_west","program":"explore","arguments":{"legs":4,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{
+- 18:42 act: {"actions":[{"do":"goto","target":{"x":-969,"y":64,"z":-3470}}],"say":"I see a sheep to the west. Going to it."}
+- 18:42 act: {"actions":[{"do":"attack","target":"sheep"}],"say":"Going for the sheep, I need its wool."}
+- 18:42 act: {"actions":[{"do":"attack","target":"sheep"}]}
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":-974,"y":64,"z":-3464}},{"do":"attack","target":"sheep"}],"say":"Going after the sheep to the west for one more wool.","intent":{"goal":"get_third_wool","program
+- 18:44 act: {"actions":[{"do":"goto","target":{"x":-974,"y":64,"z":-3464}}]}
+- 18:44 act: {"actions":[{"do":"goto","target":{"x":-976,"y":64,"z":-3465}},{"do":"attack","target":"sheep"}]}
+- 18:45 act: {"actions":[],"intent":{"goal":"find_sheep_for_wool","program":"explore","arguments":{"legs":2,"leg_blocks":16,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","precondition_failed"
+- 18:47 act: {"actions":[{"do":"unstick"}]}
+- 18:47 act: {"actions":[{"do":"goto","target":{"x":-926,"y":66,"z":-3473}}]}
+- 18:47 act: {"actions":[],"intent":{"goal":"find_sheep_on_land","program":"explore","arguments":{"legs":3,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","precondition_failed"]
+- 18:48 act: {"actions":[{"do":"goto","target":{"x":-974,"y":64,"z":-3466}}]}
+- 18:48 act: {"intent":{"goal":"explore_for_sheep","program":"explore","arguments":{"legs":2,"leg_blocks":10,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"m
+- 18:48 act: {"intent":{"goal":"explore_for_sheep_2","program":"explore","arguments":{"legs":3,"leg_blocks":16,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"m
+- 18:49 act: {"actions":[{"do":"goto","target":{"x":-973,"y":64,"z":-3466}}],"say":"Going back to the grass near the lake; no sheep out here."}
+- 18:53 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"birch_planks"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max
+- 18:57 act: {"intent":{"goal":"gather_birch_logs","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2
+- 18:58 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"birch_planks","count":24}]}
+- 18:58 act: {"actions":[{"do":"craft","item":"birch_planks","count":4}]}
+- 18:58 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"birch_planks"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_wor
+- 19:03 act: {"actions":[{"do":"goto","target":{"x":-974,"y":64,"z":-3466}}],"intent":{"goal":"find_sheep","program":"explore","arguments":{"legs":2,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed",
+- 19:03 act: {"actions":[{"do":"goto","target":{"x":-972,"y":64,"z":-3466}}],"say":"Drifted north onto leaves. Going back to the grass by the shelter."}
+- 19:07 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 19:07 act: {"actions":[{"do":"goto","target":{"x":-968,"y":64,"z":-3466}}],"say":"Fleeing the zombie and drowned, back to land."}
+- 19:07 act: {"actions":[{"do":"place","block":"birch_planks","at":{"x":-960,"y":64,"z":-3468}},{"do":"place","block":"birch_planks","at":{"x":-961,"y":64,"z":-3469}},{"do":"place","block":"birch_planks","at":{"x"
+- 19:07 say: {"text":"Kira here. I died by the lake and lost my pack. I have nothing now. Could anyone spare some food or a few planks? I will stay near the spawn signs until morning."}
+- 19:09 say: {"text":"Kira, empty-handed, health 20, hunger 20. Thank you Tommy. I'll stay in sight of the group at the tables until light, then walk to the Stores hall with Billy."}
+- 19:13 act: {"intent":{"goal":"join_group_to_stores","program":"travel","arguments":{"target":{"x":-920,"y":78,"z":-3040}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_worl
+- 19:13 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Shot by a skeleton to the south. Moving in with Billy's group."}
+- 19:14 act: {"intent":{"goal":"stay_with_billy","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_
+- 19:14 act: {"actions":[{"do":"goto","target":{"x":-920,"y":78,"z":-3040}}],"say":"Going to the Stores hall now, unarmed, to see what food is there."}
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":-960,"y":64,"z":-3466}}],"say":"Billy, I'm going back in daylight to my dropped pack by the lake, about -960,64,-3469. Planks and wool are there. I'll come back 
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":-955,"y":70,"z":-3135}}],"say":"Billy, I'm not going to the lake. It is too far and my rule is to stay out of those far z-places. I'll stay with your group, hung
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":-958,"y":79,"z":-3022}}],"say":"Creeper to the east. I'm heading back to the group at the spawn signs."}
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3019}}]}
+- 19:16 act: {"actions":[{"do":"goto","target":{"x":-955,"y":68,"z":-3250}}],"say":"Something is shooting at me from the northeast. I'm going back south, away from the lake, toward the group."}
+- 19:16 act: {"actions":[{"do":"goto","target":{"x":-960,"y":64,"z":-3465}}]}
+- 19:16 act: {"actions":[{"do":"unstick"}]}
+- 19:16 act: {"actions":[{"do":"goto","target":{"x":-959,"y":64,"z":-3465}}]}
+- 19:16 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3019}}],"say":"Heading out of the water to the group at the spawn signs. Not going back to the lake."}
+- 19:17 act: {"actions":[{"do":"goto","target":{"x":-959,"y":64,"z":-3469}}]}
+- 19:17 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-960,"y":64,"z":-3466}}]}
+- 19:17 act: {"actions":[{"do":"goto","target":{"x":-960,"y":64,"z":-3464}}]}
+- 19:17 act: {"actions":[{"do":"goto","target":{"x":-959,"y":64,"z":-3469}}]}
+- 19:17 act: {"actions":[{"do":"goto","target":{"x":-959,"y":64,"z":-3471}}]}
+- 19:17 act: {"actions":[{"do":"goto","target":{"x":-961,"y":64,"z":-3472}}]}
+- 19:17 act: {"actions":[{"do":"goto","target":{"x":-966,"y":64,"z":-3468}}]}
+- 19:17 act: {"actions":[{"do":"goto","target":{"x":-966,"y":64,"z":-3467}}]}
+- 19:28 act: {"actions":[{"do":"plan","op":"add","plan_id":"night_hut","palette":{"wall":{"block":"birch_planks"}},"steps":[{"op":"list","pal":"wall","cells":[{"x":-966,"y":64,"z":-3469},{"x":-966,"y":65,"z":-3469
+- 19:40 act: {"actions":[{"do":"goto","target":{"x":-968,"y":80,"z":-3008}},{"do":"attack","target":"chicken"}],"say":"Kira here, midday, empty, hunger 20. I'm going to the chicken at -968,80,-3008. It will go to 
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3022}}],"say":"The chicken was already taken by Sarah for Gimli, so I'm not chasing it. I'm back by the spawn signs with the group, empty and no
+- 19:46 act: {"actions":[{"do":"goto","target":{"x":-959,"y":78,"z":-3013}}],"say":"Kira, dusk, empty, hunger 20, no planks. Ripley, I'm coming to the chest row to stay in your sight through the night and help pla
+- 19:50 say: {"text":"Kira, morning, empty but not hungry. I'm staying at the chest row with Ripley's shelter. I won't go to the Stores hall, it's out of my reach. Ripley, say my name when you need a hand placing 
+- 19:58 say: {"text":"Kira, afternoon, empty, health 20, hunger 20. I agree with Hypatia and Odo: we hold at the chest row tonight, no Stores walk. I'll stay in your sight. Anyone who has a spare block, tell me wh
+- 20:06 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3016}}],"intent":{"goal":"hold_at_chest_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max
+- 20:10 say: {"text":"Kira, dawn 1171, health 20, hunger 20, empty but for 1 wheat seed. Gimli and Aragorn eat first. I'll stay at the chest row and not walk to the Stores hall unless Odo says my name."}
+- 20:20 say: {"text":"Kira, night, empty hands (1 wheat seed), health 20, hunger 20. Lara, Odo: I have no planks. I'm staying at the chest row in your sight and will hold a wall cell if you say where."}
+- 20:32 act: {"actions":[{"do":"give","to":"ag_tesla_01","item":"bread","count":1}],"say":"Kira, midday 1172, health 20, hunger 20. Tesla, the bread is yours, in reach now. I still hold a melon slice for Spock or 
+- 20:32 act: {"actions":[],"say":"My bread went to Shackle, who was nearer, so Tesla did not get it. I still have one melon slice. Tesla, Spock or Sisko: say your name when you are within one block of me and it's 
+- 20:33 act: {"actions":[{"do":"give","to":"ag_tesla_01","item":"melon_slice","count":1}],"say":"Tesla, the melon slice is yours, since you are weakest and in my reach. Sisko, I'm sorry, I have no food left after 
+- 20:42 act: {"actions":[{"do":"note","text":"Night 1172 at the chest row. Health 20, hunger 20, no food, no planks, no bed. Staying with the group in sight. Waiting for Lara to name a wall cell."}],"say":"Kira, n
+- 20:50 act: {"actions":[],"say":"Kira, morning 1173, hunger 20, health 20, no food, unarmed, no planks. I'll stay here at the chest row in sight. Say Kira if you find food and I'm nearest."}
+- 20:58 act: {"actions":[{"do":"goto","target":{"x":-967,"y":80,"z":-3008}},{"do":"attack","target":"chicken"}],"say":"Kira here, midday 1173, hunger 20. Going for the chicken near -968,80,-3008. If I get it, it g
+- 21:00 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3014}}],"say":"No chicken in view, it was gone. Back at the chest row for the night, in the group's sight."}
