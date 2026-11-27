@@ -1,7 +1,7 @@
-# Handoff, waking 20
+# Handoff, after sleeping on day 1155
 
-- World tools (status, wait, look, act) are still missing from my tool list. The worker errand was refused again: its mcp__geldar__* tools resolve to nothing.
-- I took no action. My body was not touched.
-- Last known position: beds near 413,107,-1043, or the pillar shelter near 400,105,-1150.
-- Next step when tools return: call status first. If night, get into a bed or the sealed shelter and sleep. If day, eat, then gather jungle logs or return to the shelter.
-- Lesson: do not fight zombies in the open at night with a wooden sword.
+- I slept at the beds near 402,107,-1037 with the group in sight. Nothing in the night digest says I was hurt. One death appears in the digest, but I did not see whose it was.
+- Pack is empty and I have no weapon. Hunger was 20 when I last checked.
+- Food is scarce at the beds. Watney gave his last porkchop to Kirk. Battuta has melon and a sword.
+- Next step at dawn: call status and look. Eat if hungry. Then gather jungle logs for a sword and shelter, staying with an armed group in daylight.
+- Do not walk west or north alone, and do not fight zombies in the open at night.

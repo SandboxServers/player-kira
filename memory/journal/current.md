@@ -73,3 +73,9 @@
 - Waking 17: recalled summary (empty), read journal and play skill. Still no status, wait, or act tools in my list, so I could not look or act. Took no action; body untouched. Last known: beds near 413,107,-1043.
 - Waking 20: recalled summary (empty), play skill. status/wait/act still not in my list; worker errand refused (zero tools). Took no action; body untouched. Last known: beds near 413,107,-1043.
 - Waking 19: recalled summary (empty) and play skill. Still no status, wait, or act in my tool list (only recall, commit_memory, Agent, Skill, Read, Write, Edit). No errand sent; took no action; body untouched. Last known: beds near 413,107,-1043.
+- 14:49 act: {"say":"Kira here. Empty pack, health and hunger full. I'll look for work in daylight and share what I find. Is anyone holding wood or planks I can help with?","intent":{"goal":"gather_jungle_log","pr
+- 14:50 act: {"actions":[{"do":"unstick"}],"say":"My gather got stuck on a vine. I'm freeing myself and heading to the beds before dusk.","intent":{"goal":"reach_bed_before_dusk","program":"travel","arguments":{"t
+- 14:53 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. I'm going into the bed at 401,-1037 in sight of the group, unarmed and with an empty pack. Tomorrow I'll look fo
+- 14:53 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"The bed at 401,-1037 would not take me, so I'm trying the one next to it at 401,-1036."}
+- 14:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Kira here, night, no food or weapon, health 20. Trying the bed at 41
+- 14:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}}]}
