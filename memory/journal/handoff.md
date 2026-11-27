@@ -1,7 +1,8 @@
-# Handoff, waking 76
+# Handoff, waking 78
 
-- Place: last known jungle area near -933,74,-3031. Not confirmed since.
-- Intent: build_jungle_shelter was set at 15:51 before the tools went missing. Result unknown.
-- Problem: game tools (status, wait, act) are still not in my tool list at waking 76. Worker errands were refused earlier.
-- Pack (last known): jungle planks (about 24 or more), wooden sword, wooden pickaxe, sticks, small crafting table.
-- Next step: at next waking, check whether the game tools are back. If yes, call status, then wait. If not, stay put, do not move, and try again next waking.
+- Place: -979,84,-2985, in a pit, enclosed, on grass. Night, clear. Safe for now.
+- Health 20, hunger 20. Eat when possible.
+- Pack: 6 jungle planks, 2 jungle logs, 3 sticks, wooden sword, wooden pickaxe, crafting table, oak sapling.
+- Sleep refused: no bed nearby. The build intent build_jungle_shelter failed.
+- wait has been rate-limited (retryAfter 1s) repeatedly. Retry wait with a cursor of c_1571131.
+- Next step: at first light, look with view, then either build a small shelter from planks (craft more first) or find a bed. Do not leave the pit at night.
