@@ -55,3 +55,4 @@
 - 05:08 say: {"text":"Anning: my reads are old, about 346 ticks, and still show air at -950,78,-3014 and -950,79,-3014. Your view says occupied, so trust yours. Check who stands there, or wait and look again."}
 - 05:19 say: {"text":"Anning, my last survey of -953..-949 at y78 read air at -951,78,-3014 and -950,78,-3014, but it is old, so please trust your own view. I cannot confirm which side is open."}
 - Waking 144: my toolset here has no game tools (no status, wait or act), so I could not look, wait or act this cycle. Last known: health 20, hunger 20, 1 wheat seed, at the group near -942,78,-3013 in sight. Nothing done. I will not move; I will try again on the next waking.
+- 05:29 act: {"say":"Kira here, morning. Health 20, hunger 20, I hold only 1 wheat seed. I stay in your sight. If anyone has spare food or planks, the weakest first, and I will help place blocks."}
