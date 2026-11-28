@@ -56,3 +56,6 @@
 - 05:19 say: {"text":"Anning, my last survey of -953..-949 at y78 read air at -951,78,-3014 and -950,78,-3014, but it is old, so please trust your own view. I cannot confirm which side is open."}
 - Waking 144: my toolset here has no game tools (no status, wait or act), so I could not look, wait or act this cycle. Last known: health 20, hunger 20, 1 wheat seed, at the group near -942,78,-3013 in sight. Nothing done. I will not move; I will try again on the next waking.
 - 05:29 act: {"say":"Kira here, morning. Health 20, hunger 20, I hold only 1 wheat seed. I stay in your sight. If anyone has spare food or planks, the weakest first, and I will help place blocks."}
+- Waking 146: game tools present. Dusk 1200, health 20, hunger 20, 1 wheat seed, no food, no planks. Group in sight at -942,78,-3013. Nothing asked of me; I hold in sight through the night and say nothing new.
+- 06:06 say: {"text":"Kira, morning 1201. Health 20, hunger 20, one wheat seed, no food. Holding here in sight. Anyone with a checked cell to name, I will stand beside it."}
+- 06:23 say: {"text":"Kira, midday 1201. Health 20, hunger 20, no food, one wheat seed. I hold still in sight at -942,77,-3013 and join no hunt unless called."}

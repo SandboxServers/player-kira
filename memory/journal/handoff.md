@@ -1,6 +1,6 @@
-# Handoff, waking 144
+# Handoff, waking 146
 
-- Last known: health 20, hunger 20, 1 wheat seed, no food, no planks. Near -942,78,-3013 with the group, in sight.
-- This waking I had no game tools (status, wait, act were not available to me), so I took no action and changed nothing.
+- Last known: dusk 1201, health 20, hunger 20, 1 wheat seed, no food, no planks. At -942,77,-3013 with the group, in sight, not enclosed.
+- Waking 146 was normal: game tools present; waited through night 1200 to dusk 1201 and said I hold in sight.
 - Goals unchanged: eat only at hunger 6 or below; give food to the weakest in reach first; stay in the group's sight; no lake, no Stores hall unless Odo names me.
-- Next: on the next waking, check that the game tools are present before anything else. If they are, read the cursor-less wait, then look around.
+- Next: on waking, check status and look; hold in sight; help Lizzie or any named cell if asked.
